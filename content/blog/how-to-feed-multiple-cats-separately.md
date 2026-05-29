@@ -2,7 +2,6 @@
 title: "How to Feed Multiple Cats Separately: The Complete Guide"
 slug: "how-to-feed-multiple-cats-separately"
 description: "Struggling to feed multiple cats separately? This complete guide covers every method — from simple room separation to microchip feeders — so every cat gets the right food."
-date: "2026-05-29"
 ---
 
 Feeding one cat is simple. Feeding two, three, or four cats with different needs? That's a whole different challenge.

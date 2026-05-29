@@ -10,7 +10,6 @@ export interface PostMeta {
   slug: string
   title: string
   description: string
-  date: string
 }
 
 export interface Post extends PostMeta {
@@ -28,10 +27,9 @@ export function getAllPosts(): PostMeta[] {
       slug: data.slug || slug,
       title: data.title,
       description: data.description,
-      date: data.date,
     }
   })
-  return posts.sort((a, b) => (a.date < b.date ? 1 : -1))
+  return posts
 }
 
 export async function getPostBySlug(slug: string): Promise<Post | null> {
@@ -47,7 +45,6 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
         slug: postSlug,
         title: data.title,
         description: data.description,
-        date: data.date,
         contentHtml: processed.toString(),
       }
     }

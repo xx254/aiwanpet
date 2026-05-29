@@ -97,7 +97,6 @@ export default function Home() {
                   href={`/blog/${post.slug}`}
                   className="block bg-white rounded-xl p-5 hover:shadow-md transition-shadow"
                 >
-                  <p className="text-xs text-gray-400 mb-2">{post.date}</p>
                   <h3 className="font-semibold text-sm leading-snug mb-2">{post.title}</h3>
                   <p className="text-xs text-gray-500 leading-relaxed line-clamp-3">{post.description}</p>
                 </Link>

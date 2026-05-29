@@ -21,7 +21,6 @@ export default function BlogIndex() {
         {posts.map((post) => (
           <article key={post.slug} className="py-8">
             <Link href={`/blog/${post.slug}`} className="group">
-              <p className="text-xs text-gray-400 mb-1">{post.date}</p>
               <h2 className="text-xl font-semibold group-hover:text-gray-600 transition-colors mb-2">
                 {post.title}
               </h2>

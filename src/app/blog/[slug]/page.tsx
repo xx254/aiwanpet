@@ -23,7 +23,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: post.title,
       description: post.description,
       type: "article",
-      publishedTime: post.date,
     },
   };
 }
@@ -40,7 +39,6 @@ export default async function BlogPost({ params }: Props) {
       </Link>
       <article>
         <header className="mb-10">
-          <p className="text-xs text-gray-400 mb-3">{post.date}</p>
           <h1 className="text-3xl font-bold leading-tight tracking-tight mb-4">
             {post.title}
           </h1>
