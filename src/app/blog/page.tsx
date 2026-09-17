@@ -2,6 +2,9 @@ import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 import type { Metadata } from "next";
 
+// Re-render hourly so scheduled posts go live on their date without a redeploy.
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "Cat Care Blog",
   description:

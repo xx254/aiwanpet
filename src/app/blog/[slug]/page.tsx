@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 
+// Re-render hourly so scheduled posts go live on their date without a redeploy.
+export const revalidate = 3600;
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
