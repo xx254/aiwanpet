@@ -36,33 +36,41 @@ export default async function BlogPost({ params }: Props) {
   if (!post) notFound();
 
   return (
-    <div className="max-w-2xl mx-auto px-4 py-16">
-      <Link href="/blog" className="text-sm text-gray-400 hover:text-gray-600 mb-8 inline-block">
-        ← All posts
-      </Link>
-      <article>
-        <header className="mb-10">
-          <h1 className="text-3xl font-bold leading-tight tracking-tight mb-4">
+    <>
+      <header className="bg-mist">
+        <div className="max-w-3xl mx-auto px-5 py-14">
+          <Link
+            href="/blog"
+            className="text-sm text-muted hover:text-ink transition-colors mb-6 inline-block"
+          >
+            ← All articles
+          </Link>
+          <h1 className="text-3xl sm:text-4xl font-semibold leading-tight tracking-tight mb-4">
             {post.title}
           </h1>
-          <p className="text-gray-500 text-lg leading-relaxed">{post.description}</p>
-        </header>
-        <div
-          className="prose prose-gray max-w-none prose-headings:font-semibold prose-a:text-gray-900 prose-a:underline"
+          <p className="text-muted text-lg leading-relaxed">{post.description}</p>
+        </div>
+      </header>
+
+      <div className="max-w-3xl mx-auto px-5 py-14">
+        <article
+          className="prose prose-neutral max-w-none prose-headings:font-semibold prose-a:text-brand-dark prose-a:underline"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
-      </article>
-      <div className="mt-16 pt-8 border-t border-gray-100">
-        <p className="text-sm text-gray-500 mb-4">
-          Managing feeding for multiple cats? Aiwan makes it effortless.
-        </p>
-        <Link
-          href="/"
-          className="inline-block bg-gray-900 text-white px-6 py-2.5 rounded-full text-sm font-medium hover:bg-gray-700 transition-colors"
-        >
-          Learn about Aiwan →
-        </Link>
+
+        <aside className="mt-16 bg-mist rounded-md p-8">
+          <p className="text-[15px] leading-relaxed mb-5 max-w-lg">
+            Feeding two cats two different diets? The Aiwan shield opens only for
+            the cat wearing the registered RFID tag.
+          </p>
+          <Link
+            href="/"
+            className="inline-block bg-brand text-white px-6 py-3 rounded-sm text-sm font-medium hover:bg-brand-dark transition-colors"
+          >
+            See how Aiwan works
+          </Link>
+        </aside>
       </div>
-    </div>
+    </>
   );
 }
