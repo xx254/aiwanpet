@@ -118,7 +118,7 @@ Each feeder typically registers one authorized cat — which is the point. If yo
 The cover opens in response to RFID signal, not physical manipulation. A cat cannot paw, push, or wedge the cover open. The only way to open it is to have the correct chip within reading range.
 
 **Is microchip scanning safe for cats?**
-Completely. The RFID field is extremely low power and poses no known risk. The same technology has been used in pet identification for over 30 years.
+Completely. The RFID field is extremely low power and [poses no known risk](/blog/is-a-microchip-cat-feeder-safe). The same technology has been used in pet identification for over 30 years.
 
 ---
 

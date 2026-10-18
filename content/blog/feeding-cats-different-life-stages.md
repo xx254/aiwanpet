@@ -6,7 +6,7 @@ description: "Kitten, adult, and senior cats all have different nutritional need
 
 A kitten needs calories. A lot of them. A senior cat needs less phosphorus and often more moisture. A healthy adult cat in between needs something else entirely. When all three are living in the same house, mealtime becomes a logistics problem.
 
-This is one of the most common multi-cat feeding challenges — and it gets more complex as your cats age. A household that managed fine when all cats were young adults starts struggling once one enters the senior years or a new kitten joins the household.
+This is one of the most common multi-cat feeding challenges — and it gets more complex as your cats age. A household that managed fine when all cats were young adults starts struggling once one [enters the senior years](/blog/selective-feeding-senior-cats) or a new kitten joins the household.
 
 Here is how to handle each combination.
 
