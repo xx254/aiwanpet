@@ -55,7 +55,7 @@ A shy cat that is consistently outcompeted at the bowl will sometimes refuse to 
 
 ### Dog-and-Cat Households
 
-Dogs routinely eat cat food given the opportunity. A microchip feeder registered only to cats completely solves this. The dog's attention toward the feeder is ignored by the device regardless of how persistent it is.
+Dogs routinely [eat cat food](/blog/keep-dog-out-of-cat-food) given the opportunity. A microchip feeder registered only to cats completely solves this. The dog's attention toward the feeder is ignored by the device regardless of how persistent it is.
 
 ---
 

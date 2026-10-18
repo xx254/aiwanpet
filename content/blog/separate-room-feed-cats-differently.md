@@ -60,7 +60,7 @@ The **Aiwan Cat Food Shield** works with whatever bowl or feeding setup you alre
 
 ### Elevated Feeding Stations
 
-If the issue is a dog eating cat food, or a smaller cat being dominated by a larger one, feeding on an elevated surface works well. It requires no technology and no active management once the station is in place.
+If the issue is [a dog eating cat food](/blog/keep-dog-out-of-cat-food), or a smaller cat being dominated by a larger one, feeding on an elevated surface works well. It requires no technology and no active management once the station is in place.
 
 This does not help if both cats can reach the same height or if the cats have similar size and agility.
 

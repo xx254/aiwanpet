@@ -46,7 +46,7 @@ This method works well for households where someone is always home and cats are 
 
 ## Method 2: Elevated Feeding Stations
 
-If your challenge is a dog eating cat food, or a larger cat dominating a smaller one, feeding the smaller or more timid cat on a raised surface the other animal cannot reach is an easy win.
+If your challenge is [a dog eating cat food](/blog/keep-dog-out-of-cat-food), or a larger cat dominating a smaller one, feeding the smaller or more timid cat on a raised surface the other animal cannot reach is an easy win.
 
 A sturdy shelf, a cat tree feeding station, or even a washing machine can serve this purpose.
 
