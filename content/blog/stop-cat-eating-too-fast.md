@@ -74,7 +74,7 @@ Not suitable for wet food or for households with multiple cats using the same fe
 
 Instead of two large meals per day, divide the same total amount into three or four smaller portions. Each individual meal is consumed quickly but is a smaller amount, reducing regurgitation risk.
 
-This requires either more presence at home or an automatic feeder that can be programmed for more frequent, smaller dispensing.
+This requires either more presence at home or an [automatic feeder](/blog/microchip-vs-automatic-cat-feeder) that can be programmed for more frequent, smaller dispensing.
 
 ### Flat plate instead of deep bowl
 

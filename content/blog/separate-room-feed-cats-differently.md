@@ -38,7 +38,7 @@ Before defaulting to separate rooms, it is worth being honest about the ongoing 
 
 **It is all-or-nothing.** Room separation either happens or it doesn't. There is no partial protection. A door left open for five minutes is a full opportunity for cross-feeding.
 
-**It does not scale.** Three cats on three different diets means three rooms, three feeding windows, and three sets of logistics to manage simultaneously.
+**It does not scale.** [Three cats on three different diets](/blog/selective-feeder-setup-three-cat-home) means three rooms, three feeding windows, and three sets of logistics to manage simultaneously.
 
 ---
 

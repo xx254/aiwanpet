@@ -30,7 +30,7 @@ The three main problems:
 
 The simplest fix for wet food waste is to serve less food per meal and increase the number of meals.
 
-Instead of one large serving twice a day, try smaller portions three or four times a day. Each serving gets eaten quickly, reducing the window for spoilage and theft.
+Instead of one large serving twice a day, try [smaller portions three or four times a day](/blog/best-feeding-schedule-multiple-cats). Each serving gets eaten quickly, reducing the window for spoilage and theft.
 
 For most working households, this means an automatic feeder with a refrigerated compartment, or a feeder with an ice pack tray, to keep mid-day meals fresh without requiring you to be home.
 

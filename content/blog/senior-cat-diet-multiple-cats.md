@@ -20,9 +20,9 @@ Not every senior cat needs a radically different diet. But there are changes wor
 
 **Muscle mass decreases.** Older cats often lose lean muscle despite eating normally. Higher-quality protein sources (not necessarily more protein) help maintain muscle condition.
 
-**Calories may need adjusting.** Some senior cats gain weight (lower activity, slower metabolism). Others lose weight despite eating. Monitoring body condition carefully becomes more important.
+**Calories may need adjusting.** Some senior cats gain weight (lower activity, slower metabolism). Others [lose weight despite eating](/blog/feeding-underweight-cat-multi-cat-home). Monitoring body condition carefully becomes more important.
 
-**Dental issues affect eating.** Arthritis, missing teeth, or inflamed gums can make certain textures difficult or painful. Many senior cats do better on wet food or softer kibble.
+**Dental issues affect eating.** Arthritis, missing teeth, or inflamed gums can make certain textures difficult or painful. Many senior cats do better on wet food or softer kibble. If a dental under anaesthetic gets booked, [fasting one cat while the others still eat](/blog/fasting-cat-before-surgery-multiple-cats) needs its own plan for the night before.
 
 **Thirst and hydration.** Older cats are more prone to dehydration and less likely to drink enough water. Wet food significantly increases moisture intake, which matters more as kidney function changes.
 

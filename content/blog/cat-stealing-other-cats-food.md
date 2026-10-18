@@ -42,7 +42,7 @@ When both cats are healthy and eating the same food, food stealing is mostly a s
 
 **Weight management:** An overweight cat on a calorie-controlled diet will not lose weight if it is also finishing another cat's meals. The entire diet plan is undermined.
 
-**Food allergies:** If your cat has been placed on a hydrolyzed or novel protein diet to identify allergies, any cross-contamination — even small bites — resets the elimination process.
+**Food allergies:** If your cat has been placed on a hydrolyzed or novel protein diet to [identify allergies](/blog/food-allergies-multiple-cats), any cross-contamination — even small bites — resets the elimination process.
 
 ---
 
@@ -78,7 +78,7 @@ This is particularly valuable for cats on prescription diets, where the stakes o
 
 ### Slow Feeders for the Fast Eater
 
-If the food-stealing cat is simply faster than the other, a lick mat or puzzle feeder extends how long it takes to eat its own portion. This narrows the window when it is free to go after the other cat's food.
+If the food-stealing cat is simply faster than the other, a [lick mat or puzzle feeder](/blog/stop-cat-eating-too-fast) extends how long it takes to eat its own portion. This narrows the window when it is free to go after the other cat's food.
 
 This works best as a complement to other strategies, not as a standalone fix.
 

@@ -119,7 +119,7 @@ Where she is, every cat has a name, a temper, a habit, and the right to be cared
 
 They are lives.
 
-Her story also lets us understand more deeply how complicated multi-cat homes and rescue situations are: how to make sure each cat eats the food that belongs to it, how to care for cats with special needs, how to reduce wrong meals and stolen meals, how to make sure old cats, sick cats, and cats with chronic illness can all be cared for more precisely. These look like small everyday things, but all of them matter.
+Her story also lets us understand more deeply how complicated [multi-cat homes and rescue situations](/blog/feeding-cats-rescue-foster-home) are: how to make sure each cat eats the food that belongs to it, how to care for cats with special needs, how to reduce wrong meals and stolen meals, how to make sure old cats, sick cats, and cats with chronic illness can all be cared for more precisely. These look like small everyday things, but all of them matter.
 
 This is also why we believe a good pet product is not only there to make things convenient for people, but to make caregiving feel more secure.
 

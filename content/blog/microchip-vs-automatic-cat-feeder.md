@@ -102,7 +102,7 @@ Basic automatic feeders start at around $30 to $50. Mid-range models with better
 
 Microchip feeders are typically more expensive — most quality models start at $80 to $120. Products with both automatic dispensing and microchip identification are at the higher end of the range.
 
-The price difference reflects the complexity of the technology. If your situation requires diet separation, the cost of a microchip feeder is usually small compared to the ongoing cost of managing a cat's health condition without one.
+The price difference reflects the complexity of the technology. If your situation requires diet separation, [the cost of a microchip feeder](/blog/is-a-selective-cat-feeder-worth-it) is usually small compared to the ongoing cost of managing a cat's health condition without one.
 
 ---
 

@@ -22,7 +22,7 @@ The appeal is real. The problems in multi-cat households are also real.
 
 ## What Is Scheduled Feeding?
 
-Scheduled feeding means serving specific amounts of food at set times — typically twice a day for adult cats — and removing uneaten food after 20 to 30 minutes.
+Scheduled feeding means serving specific amounts of food at [set times](/blog/best-feeding-schedule-multiple-cats) — typically twice a day for adult cats — and removing uneaten food after 20 to 30 minutes.
 
 Cats eat only when food is available. They learn the routine quickly. Most cats adapt within a week.
 

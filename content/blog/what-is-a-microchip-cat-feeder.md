@@ -47,7 +47,7 @@ These are complete feeding units — bowl, housing, and RFID reader built into a
 Examples include the SureFeed Microchip Pet Feeder, Closer Pets MiBowl, and Cat Mate C300.
 
 **Pros:** Everything is in one unit, clean setup.
-**Cons:** You are locked into the feeder's bowl size and design. If you already have an automatic feeder you love, you cannot keep using it. They can also be expensive when you need one unit per cat.
+**Cons:** You are locked into the feeder's bowl size and design. If you already have [an automatic feeder you love](/blog/microchip-vs-automatic-cat-feeder), you cannot keep using it. They can also be expensive when you need one unit per cat.
 
 ### 2. Modular Covers and Shields (The Aiwan Approach)
 

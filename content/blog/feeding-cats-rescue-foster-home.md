@@ -21,7 +21,7 @@ A structure that works:
 
 **Zone 1 — Healthy adults.** The largest group, on the same maintenance diet, free-fed or scheduled together. No individual protection needed. These cats subsidise your attention budget: because they need almost none, you have some left for everyone else.
 
-**Zone 2 — Seniors and chronic conditions.** Renal diets, thyroid medication, cats who eat slowly and get displaced. This group needs the most individual attention, and it is the group most worth keeping physically close to where you sleep, because they are the ones who need checking at night.
+**Zone 2 — Seniors and chronic conditions.** Renal diets, thyroid medication, [cats who eat slowly and get displaced](/blog/selective-feeding-senior-cats). This group needs the most individual attention, and it is the group most worth keeping physically close to where you sleep, because they are the ones who need checking at night.
 
 **Zone 3 — Medical and quarantine.** New arrivals, cats on antibiotics, post-surgical recovery, anything contagious. Separate room, separate bowls, separate cleaning order.
 

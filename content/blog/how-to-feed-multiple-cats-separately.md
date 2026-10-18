@@ -34,7 +34,7 @@ Even when no medical issue is present, competition at the food bowl creates chro
 
 ## Method 1: Timed Separate Rooms
 
-The most basic approach is to feed each cat in a separate room, close the doors, allow 20 to 30 minutes to eat, then remove any uneaten food.
+The most basic approach is to feed each cat in a separate room, close the doors, allow 20 to 30 minutes to eat, then remove any uneaten food. The same closed-door setup is also how you get one cat through [a pre-surgery fast](/blog/fasting-cat-before-surgery-multiple-cats) while the others still eat.
 
 **Pros:** No cost, works immediately.
 
@@ -119,7 +119,7 @@ If both cats eat the same food with no medical restrictions and are at a healthy
 
 **How many feeding stations do I need for multiple cats?**
 
-A general rule is one feeding station per cat, plus one extra. This reduces competition and gives each cat its own resource without having to share.
+A general rule is [one feeding station per cat, plus one extra](/blog/selective-feeder-setup-three-cat-home). This reduces competition and gives each cat its own resource without having to share.
 
 **My cat eats too fast and then steals the other cat's food. What should I do?**
 

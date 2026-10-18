@@ -14,7 +14,7 @@ This guide covers how to approach cat weight loss in a multi-cat household — p
 
 In a single-cat household, calorie restriction is straightforward: measure the food, feed twice a day, and stick to the plan. In a multi-cat home, several things complicate this:
 
-**The overweight cat eats faster** and moves on to finishing the other cats' bowls. Even if you measure its portion precisely, total intake is much higher.
+**The overweight cat eats faster** and moves on to finishing the other cats' bowls. Even if you [measure its portion precisely](/blog/cat-portion-control-multiple-cats), total intake is much higher.
 
 **The food-restricted cat steals.** A cat that receives fewer calories than it is used to will be motivated to seek additional food anywhere it can find it, including the other cats' bowls.
 
