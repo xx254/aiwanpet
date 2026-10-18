@@ -7,6 +7,7 @@ export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Cat Care Blog",
+  alternates: { canonical: "/blog" },
   description:
     "Tips on multi-cat feeding, prescription diets, weight management, and selective RFID feeders — from the Aiwan team.",
 };

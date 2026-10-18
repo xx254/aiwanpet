@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   },
   description:
     "Aiwan's RFID food shield opens only for the cat wearing the registered collar tag — built for multi-cat households, prescription diets, and weight management.",
-  metadataBase: new URL("https://aiwanpet.com"),
+  metadataBase: new URL("https://www.aiwanpet.com"),
 };
 
 const nav = [

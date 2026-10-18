@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
@@ -9,6 +10,8 @@ import lockedShot from "../../public/product/panda-locked.jpg";
 import kitchenShot from "../../public/product/panda-feeder.jpg";
 import studioShot from "../../public/product/panda-front.jpg";
 import stepStand from "../../public/product/step-stand.jpg";
+
+export const metadata: Metadata = { alternates: { canonical: "/" } };
 import stepTag from "../../public/product/step-tag.jpg";
 import stepAway from "../../public/product/step-away.jpg";
 
