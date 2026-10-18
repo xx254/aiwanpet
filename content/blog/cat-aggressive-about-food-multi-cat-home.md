@@ -33,7 +33,7 @@ Sudden onset in an adult cat is medical until proven otherwise. Get them checked
 
 The cat is defending the food. They hunch over the bowl, they may growl or freeze, and they respond to another cat's approach with a warning.
 
-This is a cat who believes food is scarce. Very often they are right — or they were, once. Former strays, cats from [crowded rescue situations](/blog/feeding-cats-rescue-foster-home), and cats who went hungry as kittens carry this for years. It is an anxiety behaviour, not a dominance behaviour.
+This is a cat who believes food is scarce. Very often they are right — or they were, once. Former strays, cats from [crowded rescue situations](/blog/feeding-cats-rescue-foster-home), and cats who went hungry as kittens carry this for years. It is an anxiety behaviour, not a dominance behaviour. Anyone who has spent years [taking in cats nobody else wanted](/blog/she-gave-her-later-years-to-the-cats-left-behind) will recognise it.
 
 ### Displacement
 
