@@ -91,7 +91,7 @@ Keep spare tags. In a twelve-cat house, one is always missing.
 
 **Watch one full meal a day.** Not all of them — one. Rotate which zone. You are looking for who is not eating, who is being displaced, and who is guarding. Ten minutes of actually watching beats an hour of assumptions.
 
-**Keep the new arrivals separate properly.** Quarantine is a feeding decision as much as a health one: separate bowls, separate room, and cleaned last in the order so you are not carrying anything through the house.
+**[Keep the new arrivals separate](/blog/how-to-feed-a-new-cat-with-resident-cats) properly.** Quarantine is a feeding decision as much as a health one: separate bowls, separate room, and cleaned last in the order so you are not carrying anything through the house.
 
 ---
 
