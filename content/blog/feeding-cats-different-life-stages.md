@@ -107,7 +107,7 @@ Most veterinary guidelines consider cats senior at around 10 to 11 years, and ge
 
 **Do I need to switch foods at an exact age?**
 
-No. Life stage feeding is about matching nutritional needs to your cat's current condition, not rigidly switching at a birthday. Your vet can guide you on when to consider a food transition.
+No. Life stage feeding is about matching nutritional needs to your cat's current condition, not [rigidly switching at a birthday](/blog/switch-cat-food-multiple-cats). Your vet can guide you on when to consider a food transition.
 
 ---
 

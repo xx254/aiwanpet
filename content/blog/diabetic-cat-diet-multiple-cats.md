@@ -14,7 +14,7 @@ The challenge is consistency. In a single-cat household, it is straightforward. 
 
 Unlike dogs, cats are obligate carnivores. Their metabolism is optimised for high protein, moderate fat, and very low carbohydrate — the opposite of what most dry kibble provides.
 
-Feline diabetes is strongly linked to high-carbohydrate diets. The standard dietary approach for a diabetic cat is to switch to a low-carbohydrate wet food (typically less than 10% carbohydrate on a dry matter basis) and eliminate high-carb kibble entirely.
+Feline diabetes is strongly linked to high-carbohydrate diets. The standard dietary approach for a diabetic cat is to [switch to a low-carbohydrate wet food](/blog/switch-cat-food-multiple-cats) (typically less than 10% carbohydrate on a dry matter basis) and eliminate high-carb kibble entirely.
 
 When this dietary change is made consistently, many cats see a dramatic improvement in blood glucose regulation. Some achieve diabetic remission and no longer require insulin. But this only works if the cat actually eats its prescribed food — and only that food.
 

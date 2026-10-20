@@ -69,7 +69,7 @@ For mild allergens, occasional cross-exposure may cause mild symptoms. For sever
 Practical ongoing approaches:
 
 - Keep the allergic cat's food separate permanently (separate room or microchip feeder)
-- Evaluate whether switching all cats to an allergen-free food is possible — this simplifies management considerably
+- Evaluate whether [switching all cats to an allergen-free food](/blog/switch-cat-food-multiple-cats) is possible — this simplifies management considerably
 - If other cats eat the trigger protein, their bowls must be protected from the allergic cat at all times
 
 ---
