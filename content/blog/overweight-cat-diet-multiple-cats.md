@@ -127,7 +127,7 @@ This is a long game. The feeding setup you establish needs to be sustainable, no
 **Can I just feed all my cats the weight loss food?**
 It depends. Low-calorie weight loss food fed to a lean cat in appropriate quantities is usually not harmful short-term. However, a lean, active cat fed calorie-restricted food may lose weight it does not need to lose. Consult your vet before putting all cats on a weight management diet.
 
-**My overweight cat always cries for food. Is this normal?**
+**My overweight cat [always cries for food](/blog/why-is-my-cat-always-hungry). Is this normal?**
 Yes. A cat transitioning from free-feeding to calorie restriction will be genuinely hungry at first. This typically improves over 2 to 4 weeks as the cat's appetite adjusts. If it does not improve, check with your vet.
 
 **How do I know my overweight cat is not just big-boned?**

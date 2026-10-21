@@ -79,7 +79,7 @@ However, this requires careful veterinary discussion. Iodine restriction in heal
 
 ## Managing the Ravenous Appetite
 
-Hyperthyroid cats are often notoriously hungry before treatment begins to work. This makes them more likely to eat quickly, seek out other cats' food, and become anxious at feeding time.
+Hyperthyroid cats are [often notoriously hungry](/blog/why-is-my-cat-always-hungry) before treatment begins to work. This makes them more likely to eat quickly, seek out other cats' food, and become anxious at feeding time.
 
 During the treatment phase — whether dietary or medication-based — expect the hyperthyroid cat to be more food-seeking than normal. This is the disease, not the cat's personality.
 
