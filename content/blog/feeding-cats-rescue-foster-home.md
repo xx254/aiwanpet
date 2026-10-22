@@ -89,7 +89,7 @@ Keep spare tags. In a twelve-cat house, one is always missing.
 
 **Weigh them.** In a group of twelve, weight is the only early-warning system you have. Nobody notices a cat quietly losing 15% over two months in a crowd; a scale does, immediately. Once a month, written down, one line per cat.
 
-**Watch one full meal a day.** Not all of them — one. Rotate which zone. You are looking for who is not eating, who is being displaced, and who is guarding. Ten minutes of actually watching beats an hour of assumptions.
+**Watch one full meal a day.** Not all of them — one. Rotate which zone. You are looking for [who is not eating](/blog/cat-not-eating-multi-cat-home), who is being displaced, and who is guarding. Ten minutes of actually watching beats an hour of assumptions.
 
 **[Keep the new arrivals separate](/blog/how-to-feed-a-new-cat-with-resident-cats) properly.** Quarantine is a feeding decision as much as a health one: separate bowls, separate room, and cleaned last in the order so you are not carrying anything through the house.
 

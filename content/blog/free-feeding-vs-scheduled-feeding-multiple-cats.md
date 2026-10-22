@@ -36,7 +36,7 @@ If one cat needs to lose weight and another is at a healthy weight, free feeding
 
 ### You cannot monitor appetite
 
-A cat that stops eating is often the first sign of illness. With free feeding and multiple cats, it is nearly impossible to tell which cat is eating how much. A sick cat can go unnoticed for days because the bowl still empties — just from the other cats.
+A cat that stops eating is often the first sign of illness. With free feeding and multiple cats, it is nearly impossible to [tell which cat is eating how much](/blog/cat-not-eating-multi-cat-home). A sick cat can go unnoticed for days because the bowl still empties — just from the other cats.
 
 ### Prescription diets cannot coexist with free feeding
 

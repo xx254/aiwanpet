@@ -73,7 +73,7 @@ The mechanism does not have to break for this to happen. The common causes are o
 
 **Weight gain or a very thick coat.** Both effectively increase the distance between chip and antenna.
 
-The real safeguard is not the device — it is you noticing. Know roughly how much each cat eats, and check that food is actually going down. A cat that is quietly not eating is the thing you are protecting against, and no feeder will tell you. [7 Signs Your Cat Is Eating Another Cat's Food](/blog/signs-cat-eating-another-cats-food) covers what to watch.
+The real safeguard is not the device — it is you noticing. Know roughly how much each cat eats, and check that food is actually going down. [A cat that is quietly not eating](/blog/cat-not-eating-multi-cat-home) is the thing you are protecting against, and no feeder will tell you. [7 Signs Your Cat Is Eating Another Cat's Food](/blog/signs-cat-eating-another-cats-food) covers what to watch.
 
 ---
 
