@@ -4,6 +4,7 @@ import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 import ScrollVideo from "./ScrollVideo";
 import Reveal from "./Reveal";
+import Subscribe from "./Subscribe";
 
 import openShot from "../../public/product/panda-open.jpg";
 import lockedShot from "../../public/product/panda-locked.jpg";
@@ -304,6 +305,26 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      {/* Email sign-up */}
+      <section className="px-3 sm:px-5 mb-6" id="subscribe">
+        <div className="bg-mist rounded-[36px]">
+          <Reveal className="max-w-6xl mx-auto px-5 py-16 sm:py-20 grid md:grid-cols-2 gap-8 items-center">
+            <div>
+              <h2 className="text-3xl sm:text-[2.6rem] font-semibold tracking-tight mb-3">
+                Be first to know.
+              </h2>
+              <p className="text-muted text-[15px] leading-relaxed max-w-md">
+                Leave your email and we&apos;ll tell you when the Aiwan shield is
+                ready to order, plus the occasional multi-cat feeding guide. No spam.
+              </p>
+            </div>
+            <div className="md:justify-self-end w-full max-w-md">
+              <Subscribe source="home" />
+            </div>
+          </Reveal>
+        </div>
+      </section>
 
       {/* Closing CTA */}
       <section className="px-3 sm:px-5">

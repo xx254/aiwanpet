@@ -2,6 +2,7 @@ import { getAllPosts, getPostBySlug } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
+import Subscribe from "../../Subscribe";
 
 // Re-render hourly so scheduled posts go live on their date without a redeploy.
 export const revalidate = 3600;
@@ -59,17 +60,24 @@ export default async function BlogPost({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
-        <aside className="mt-16 bg-mist rounded-md p-8">
+        <aside className="mt-16 bg-mist rounded-[24px] p-8">
           <p className="text-[15px] leading-relaxed mb-5 max-w-lg">
             Feeding two cats two different diets? The Aiwan shield opens only for
             the cat wearing the registered RFID tag.
           </p>
           <Link
             href="/"
-            className="inline-block bg-brand text-white px-6 py-3 rounded-sm text-sm font-medium hover:bg-brand-dark transition-colors"
+            className="inline-block bg-brand text-white px-6 py-3 rounded-full text-sm font-medium hover:bg-brand-dark transition-colors"
           >
             See how Aiwan works
           </Link>
+          <div className="mt-8 pt-7 border-t border-ink/10">
+            <p className="font-semibold mb-1">Get the next guide in your inbox</p>
+            <p className="text-sm text-muted mb-4">
+              New multi-cat feeding guides, and a note when Aiwan is ready to order. No spam.
+            </p>
+            <Subscribe source="blog" />
+          </div>
         </aside>
       </div>
     </>
