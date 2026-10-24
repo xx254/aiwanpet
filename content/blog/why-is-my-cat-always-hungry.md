@@ -7,7 +7,7 @@ date: "2026-10-21"
 
 It's 5:40 a.m. and someone is standing on your chest. Not the whole household, just one cat: the grey one, who ate a full breakfast yesterday, a full dinner last night, and still spent the evening following you to the fridge and shouting at the cupboard door. The other two are asleep at the foot of the bed. Their bowls were empty this morning as well. You honestly can't say who emptied them.
 
-If you're asking "why is my cat always hungry," the answer could be a medical problem, a habit, or the plain fact that this cat isn't getting the food you think it's getting. In a single-cat home you can usually tell which. With several cats, the signals blur. One cat's constant begging might be an overactive thyroid. It might be a cat whose dinner is being eaten by a housemate. It might be a cat who has learned that yelling at 5:40 a.m. works.
+If you're asking "why is my cat always hungry," the answer could be a medical problem, a habit, or the plain fact that this cat isn't getting the food you think it's getting. In a single-cat home you can usually tell which. With several cats, the signals blur. One cat's constant begging might be an overactive thyroid. It might be a cat whose dinner is being eaten by a housemate. It might be a cat who has learned that [yelling at 5:40 a.m.](/blog/cat-wakes-me-up-for-food) works.
 
 This guide covers the common causes, how to tell real hunger from learned begging, and how to find out what each cat is actually eating before you change anything.
 
