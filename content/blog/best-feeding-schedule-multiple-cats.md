@@ -34,7 +34,7 @@ Most households do well with something like:
 - **Morning meal:** 7–8am, before you leave for work
 - **Evening meal:** 6–7pm, when you return
 
-The gap between meals (roughly 10–12 hours) is fine for healthy adult cats. Kittens, pregnant cats, and cats recovering from illness need more frequent feeding — typically three to four smaller meals per day.
+The gap between meals (roughly 10–12 hours) is fine for healthy adult cats. Kittens, [pregnant cats](/blog/feeding-pregnant-nursing-cat-multi-cat-home), and cats recovering from illness need more frequent feeding — typically three to four smaller meals per day.
 
 The exact times matter less than the consistency. Cats have a strong internal clock and will start appearing at feeding time reliably within a week.
 

@@ -73,7 +73,7 @@ This is more setup, but it works continuously without daily supervision.
 **Option 3: Transition all cats to the iodine-restricted diet.**
 In some multi-cat households, the vet may approve putting all cats on the iodine-restricted prescription diet. This solves the separation problem entirely.
 
-However, this requires careful veterinary discussion. Iodine restriction in healthy cats is not well-studied long-term, and kittens or pregnant cats should not eat iodine-restricted food. Discuss this option thoroughly before proceeding.
+However, this requires careful veterinary discussion. Iodine restriction in healthy cats is not well-studied long-term, and kittens or [pregnant cats](/blog/feeding-pregnant-nursing-cat-multi-cat-home) should not eat iodine-restricted food. Discuss this option thoroughly before proceeding.
 
 ---
 
