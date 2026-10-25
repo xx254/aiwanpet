@@ -76,7 +76,7 @@ This approach is used by households managing cats with:
 - Feline diabetes
 - Lower urinary tract disease (FLUTD)
 - Food allergies or intolerances
-- Post-surgical recovery diets
+- [Post-surgical recovery diets](/blog/feeding-cat-after-surgery-multiple-cats)
 
 ---
 

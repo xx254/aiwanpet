@@ -23,7 +23,7 @@ A structure that works:
 
 **Zone 2 — Seniors and chronic conditions.** Renal diets, thyroid medication, [cats who eat slowly and get displaced](/blog/selective-feeding-senior-cats). This group needs the most individual attention, and it is the group most worth keeping physically close to where you sleep, because they are the ones who need checking at night.
 
-**Zone 3 — Medical and quarantine.** New arrivals, cats on antibiotics, post-surgical recovery, anything contagious. Separate room, separate bowls, separate cleaning order.
+**Zone 3 — Medical and quarantine.** New arrivals, cats on antibiotics, [post-surgical recovery](/blog/feeding-cat-after-surgery-multiple-cats), anything contagious. Separate room, separate bowls, separate cleaning order.
 
 **Zone 4 — Kittens.** Growth diets, frequent meals, and no access to adult food or medication.
 
