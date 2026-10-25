@@ -38,8 +38,10 @@ export default function RootLayout({
           <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between gap-6">
             <Link
               href="/"
-              className="text-lg font-bold tracking-[0.12em] uppercase shrink-0"
+              className="flex items-center gap-2.5 text-lg font-bold tracking-[0.12em] uppercase shrink-0"
             >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/icon.svg" alt="" width={28} height={28} className="w-7 h-7" />
               Aiwan
             </Link>
             <nav className="hidden md:flex items-center gap-8 text-sm text-ink">
