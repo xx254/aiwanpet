@@ -90,7 +90,7 @@ This is more disruptive to household routines, but it eliminates any risk of cro
 
 ## Practical Tips for Managing Prescription Diets in a Multi-Cat Home
 
-**Label everything clearly.** Use different bowl colors or labels for each cat. This helps everyone in the household, including pet-sitters and visitors, understand the rules.
+**Label everything clearly.** Use different bowl colors or labels for each cat. This helps everyone in the household, [including pet-sitters and visitors](/blog/cat-sitter-feeding-instructions-multiple-cats), understand the rules.
 
 **Keep a log.** Note what each cat ate and how much at every meal. This is also useful information for your vet at follow-up appointments.
 

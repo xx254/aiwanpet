@@ -48,7 +48,7 @@ A general starting point for a healthy adult cat eating standard maintenance foo
 
 Weigh your cats every one to two months. If a cat is gaining weight, reduce portions slightly. If losing weight, increase. If you're unsure where to start, your vet can give you a calorie target.
 
-In multi-cat households, it is useful to write down each cat's target portion so that any household member can feed correctly without guessing.
+In multi-cat households, it is useful to [write down each cat's target portion](/blog/cat-sitter-feeding-instructions-multiple-cats) so that any household member can feed correctly without guessing.
 
 ---
 

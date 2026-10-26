@@ -105,7 +105,7 @@ Use a door with a lever handle and install a childproof cover, or use a latch. C
 
 **I travel occasionally. How do I maintain separate feeding then?**
 
-This is where room separation breaks down. If a cat-sitter or automated system needs to manage feeding in your absence, microchip feeders are significantly more reliable than expecting a sitter to execute a multi-room feeding protocol twice daily.
+This is where room separation breaks down. If [a cat-sitter or automated system](/blog/cat-sitter-feeding-instructions-multiple-cats) needs to manage feeding in your absence, microchip feeders are significantly more reliable than expecting a sitter to execute a multi-room feeding protocol twice daily.
 
 **How do I transition from room separation to microchip feeders?**
 
