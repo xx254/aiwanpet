@@ -96,7 +96,7 @@ This is useful when you already have automatic feeders or a preferred bowl setup
 
 ## Method 7: Puzzle Feeders and Slow Feeders (Speed Management, Not Portion Control)
 
-Slow feeders and puzzle feeders reduce eating speed but do not control the total amount eaten or prevent access by other cats.
+[Slow feeders and puzzle feeders](/blog/puzzle-feeders-multiple-cats) reduce eating speed but do not control the total amount eaten or prevent access by other cats.
 
 **Best for:** Supplementing other methods. If a fast-eating cat also uses a slow feeder, it is less likely to finish its portion and immediately steal from others. But the slow feeder on the fast cat's bowl does not protect the slow cat's bowl — that still requires physical separation or a microchip feeder.
 

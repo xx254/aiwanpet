@@ -28,7 +28,7 @@ A cat that inhales its food in two minutes flat, while the other cat grazes slow
 
 Watch how long each cat spends eating. If there's a significant speed difference, the fast eater almost certainly investigates the other bowl afterward.
 
-**What to do:** A puzzle feeder or lick mat for the fast eater slows it down and narrows the window for poaching. Combined with a microchip feeder for the slower cat, this covers both ends of the problem.
+**What to do:** [A puzzle feeder or lick mat](/blog/puzzle-feeders-multiple-cats) for the fast eater slows it down and narrows the window for poaching. Combined with a microchip feeder for the slower cat, this covers both ends of the problem.
 
 ---
 

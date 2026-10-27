@@ -83,7 +83,7 @@ A baby gate with a small cat flap can create dedicated feeding zones in an open-
 
 ## Method 5: Puzzle Feeders and Slow Feeders
 
-If your main problem is a fast eater stealing food from a slower cat, puzzle feeders and slow feeders can reduce the speed advantage. This is not a reliable solution for prescription diet management, but it can reduce mealtime stress significantly.
+If your main problem is a fast eater stealing food from a slower cat, [puzzle feeders and slow feeders](/blog/puzzle-feeders-multiple-cats) can reduce the speed advantage. This is not a reliable solution for prescription diet management, but it can reduce mealtime stress significantly.
 
 ---
 
