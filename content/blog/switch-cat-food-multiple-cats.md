@@ -24,7 +24,7 @@ For a single healthy cat, the method is well established. PetMD, in an article w
 | 5–6 | 25% | 75% |
 | 7 onward | 0% | 100% |
 
-The same article notes that some cats "may require a longer transition period if they show signs of digestive upset," such as vomiting, diarrhoea or loss of appetite. If that happens, stay at the current step for a few more days, or go back one step, before moving on.
+The same article notes that some cats "may require a longer transition period if they show signs of digestive upset," [such as vomiting, diarrhoea or loss of appetite](/blog/which-cat-is-throwing-up-multi-cat-home). If that happens, stay at the current step for a few more days, or go back one step, before moving on.
 
 Mix the two foods together rather than serving them side by side. A cat given a choice will usually just eat the familiar one.
 

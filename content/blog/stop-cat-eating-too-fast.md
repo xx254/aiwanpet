@@ -112,7 +112,7 @@ The **Aiwan Cat Food Shield** works on any bowl and keeps it accessible only to 
 
 **My cat vomits right after eating. Is this dangerous?**
 
-Occasional regurgitation from eating too fast is not immediately dangerous, but it is not normal or desirable. Frequent regurgitation means the cat is not properly absorbing nutrients and may indicate a need for dietary or feeding changes. If vomiting is frequent, new, or accompanied by other symptoms, consult your vet.
+Occasional regurgitation from eating too fast is not immediately dangerous, but it is not normal or desirable. Frequent regurgitation means the cat is not properly absorbing nutrients and may indicate a need for dietary or feeding changes. [If vomiting is frequent, new, or accompanied by other symptoms](/blog/which-cat-is-throwing-up-multi-cat-home), consult your vet.
 
 **Will a slow feeder work if my cat uses it aggressively?**
 
