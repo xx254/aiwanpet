@@ -131,7 +131,7 @@ It depends. Low-calorie weight loss food fed to a lean cat in appropriate quanti
 Yes. A cat transitioning from free-feeding to calorie restriction will be genuinely hungry at first. This typically improves over 2 to 4 weeks as the cat's appetite adjusts. If it does not improve, check with your vet.
 
 **How do I know my overweight cat is not just big-boned?**
-Run the rib test: you should be able to feel your cat's ribs with light pressure, like touching the back of your hand. If you need to press firmly or cannot feel the ribs at all, the cat is likely carrying excess weight. Your vet can give you a body condition score (BCS) on a 9-point scale.
+Run the rib test: you should be able to feel your cat's ribs with light pressure, like touching the back of your hand. If you need to press firmly or cannot feel the ribs at all, the cat is likely carrying excess weight. Your vet can give you a [body condition score](/blog/cat-body-condition-score-multi-cat-home) (BCS) on a 9-point scale.
 
 **What weight loss food do vets recommend for cats?**
 Common recommendations include Hill's Prescription Diet r/d, Royal Canin Satiety Support, and Purina Pro Plan Veterinary Diets OM. For non-prescription options, ask your vet to recommend a food with sufficient protein and fiber for gradual weight loss.

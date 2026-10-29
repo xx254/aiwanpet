@@ -141,7 +141,7 @@ Measure the target daily calorie intake for the cat on a diet. Feed that cat sep
 
 **How do I know if portion control is working?**
 
-Weigh your cats monthly using a kitchen scale or a baby scale. Body weight is the most reliable indicator of whether food intake is appropriate. Changes in body condition (ribs easily felt vs hard to find) are a secondary indicator.
+Weigh your cats monthly using a kitchen scale or a baby scale. Body weight is the most reliable indicator of whether food intake is appropriate. [Changes in body condition](/blog/cat-body-condition-score-multi-cat-home) (ribs easily felt vs hard to find) are a secondary indicator.
 
 **Is it worth spending $100+ on a microchip feeder for portion control?**
 
