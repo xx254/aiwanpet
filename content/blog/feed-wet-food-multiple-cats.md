@@ -50,7 +50,7 @@ For households with different dietary requirements between cats, this is also th
 
 If one of your cats is on a prescription wet food diet — kidney disease, urinary conditions, food allergies — physical separation is not optional. That cat must eat only its prescribed food, and other cats must not access it.
 
-A microchip feeder solves this without the need for separate rooms. The feeder reads your cat's implanted chip or collar tag and opens only when that specific cat approaches. Other cats trigger nothing.
+A microchip feeder solves this [without the need for separate rooms](/blog/feed-multiple-cats-small-apartment). The feeder reads your cat's implanted chip or collar tag and opens only when that specific cat approaches. Other cats trigger nothing.
 
 The **Aiwan Cat Food Shield** works with any bowl or feeding setup you already use. Your cat approaches, the cover opens, your cat eats, and the cover closes when they walk away. Wet food stays protected and covered between bites — which also helps it stay fresher longer.
 

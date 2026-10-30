@@ -104,7 +104,7 @@ Details on the weight-loss side are in [Helping an Overweight Cat Lose Weight in
 
 ## Where This Gets Hard
 
-Two cats at opposite ends of the weight spectrum in a small home with one feeding area is a genuinely difficult setup, and it may not be solvable by placement alone.
+Two cats at opposite ends of the weight spectrum [in a small home with one feeding area](/blog/feed-multiple-cats-small-apartment) is a genuinely difficult setup, and it may not be solvable by placement alone.
 
 A senior underweight cat with arthritis cannot use vertical separation, which removes the cheapest option exactly when you need it most.
 
