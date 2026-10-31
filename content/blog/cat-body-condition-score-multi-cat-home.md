@@ -67,7 +67,7 @@ Not every cat wants to be examined. A few things help.
 - **Do one cat at a time.** A cat who watches another being handled tends to hover or bolt.
 - **Pick a quiet moment.** After a nap is better than before breakfast, when the hungry cat is a moving target.
 - **Keep it short.** If a cat tenses, stop and try again tomorrow.
-- **Reward with something small.** VCA says treats should be no more than 10% of a cat's daily calorie intake, so keep the reward tiny.
+- **Reward with something small.** VCA says [treats should be no more than 10%](/blog/how-to-give-treats-to-multiple-cats) of a cat's daily calorie intake, so keep the reward tiny.
 - **Ask your vet to demonstrate.** At the next visit, ask them to show you what a 5 feels like on your cat. Your hands will learn faster than any chart.
 
 ---

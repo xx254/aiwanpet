@@ -68,7 +68,7 @@ Two more reasons come up a lot in multi-cat homes.
 
 ### The treats add up and nobody keeps count
 
-Cornell advises that treats shouldn't exceed "10 to 15 percent of a cat's daily caloric intake." Now picture a three-person household where everyone gives the loud cat "just one" treat to make it stop. The begging has worked three times before lunch, so the cat does it again.
+Cornell advises that [treats shouldn't exceed](/blog/how-to-give-treats-to-multiple-cats) "10 to 15 percent of a cat's daily caloric intake." Now picture a three-person household where everyone gives the loud cat "just one" treat to make it stop. The begging has worked three times before lunch, so the cat does it again.
 
 ### The cat is overweight, and you can't see it
 

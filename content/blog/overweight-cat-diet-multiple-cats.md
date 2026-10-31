@@ -106,7 +106,7 @@ If the cat is losing weight too quickly (more than 1–2% per week), increase th
 
 **Drastically cutting portions.** Slow and steady is medically necessary with feline weight loss. Halving a cat's food overnight is dangerous.
 
-**Giving the dieting cat extra treats to compensate.** Treats are calories. If you are tracking intake, treats need to count.
+**[Giving the dieting cat extra treats](/blog/how-to-give-treats-to-multiple-cats) to compensate.** Treats are calories. If you are tracking intake, treats need to count.
 
 **Letting the diet slide at weekends or when guests visit.** Consistency over weeks and months is what produces results. Intermittent lapses add up.
 
