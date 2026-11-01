@@ -141,7 +141,7 @@ Yes. The AAFP and ISFM feeding consensus notes that cats often don't show obviou
 
 ### My cat eats when it's alone but not with the other cats. Is that normal?
 
-It's common. Cats prefer to eat alone, according to the AAFP. If your cat eats well in a separate room and holds its weight, a private feeding spot for every meal may be all it needs.
+It's common. [Cats prefer to eat alone](/blog/do-cats-prefer-to-eat-alone-multi-cat-home), according to the AAFP. If your cat eats well in a separate room and holds its weight, a private feeding spot for every meal may be all it needs.
 
 ---
 

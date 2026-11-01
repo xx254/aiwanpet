@@ -47,7 +47,7 @@ This is the version that goes undiagnosed for years, because nobody witnesses a 
 
 ## What Makes Both Kinds Worse
 
-**Bowls placed close together.** Cats in the wild eat alone. Side-by-side bowls are a human idea and they manufacture conflict in households that would otherwise have none.
+**Bowls placed close together.** Cats in the wild eat alone. [Side-by-side bowls are a human idea](/blog/do-cats-prefer-to-eat-alone-multi-cat-home) and they manufacture conflict in households that would otherwise have none.
 
 **One feeding station for several cats.** A single location makes the resource genuinely contested, which is the exact belief a guarding cat already holds.
 

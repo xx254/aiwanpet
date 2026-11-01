@@ -39,7 +39,7 @@ That is two protected bowls, not three.
 
 Hardware failures in multi-cat homes are rare. Placement failures are constant.
 
-**Separate the bowls properly.** Cats are not a family sitting down to dinner; free-living cats eat alone. Bowls lined up side by side create competition that has nothing to do with the food. Put real distance between them — different sides of a room at minimum, different rooms if you can. Several feet apart is not the same as across the room, and across the room is much better.
+**Separate the bowls properly.** Cats are not a family sitting down to dinner; free-living cats eat alone. [Bowls lined up side by side](/blog/do-cats-prefer-to-eat-alone-multi-cat-home) create competition that has nothing to do with the food. Put real distance between them — different sides of a room at minimum, different rooms if you can. Several feet apart is not the same as across the room, and across the room is much better.
 
 **Break the sight lines.** Distance matters less than visibility. A bowl behind a sofa, around a corner, or on the far side of a doorway lets a cat eat without monitoring a housemate. Two bowls ten feet apart in an open room can be worse than two bowls six feet apart with furniture between them.
 
