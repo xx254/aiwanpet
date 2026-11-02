@@ -21,7 +21,7 @@ International Cat Care's guide to [cat pregnancy](https://icatcare.org/articles/
 
 VCA Animal Hospitals' article on [feeding the pregnant cat](https://vcahospitals.com/know-your-pet/feeding-the-pregnant-cat) agrees: "High-quality commercial kitten food or growth formulation is recommended during feline pregnancy." VCA notes that many vets recommend diets that have passed an AAFCO feeding trial for gestation/lactation or for all life stages. That wording will be on the label.
 
-That's the first multi-cat problem. Kitten food is richer than adult food, and your other cats will notice. Our guide to [feeding cats at different life stages in one home](/blog/feeding-cats-different-life-stages) explains what happens when adults keep eating kitten food.
+That's the first multi-cat problem. [Kitten food is richer than adult food](/blog/kitten-food-vs-adult-cat-food-multi-cat-home), and your other cats will notice. Our guide to [feeding cats at different life stages in one home](/blog/feeding-cats-different-life-stages) explains what happens when adults keep eating kitten food.
 
 ### Don't overdo it in the first weeks
 

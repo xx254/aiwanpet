@@ -38,7 +38,7 @@ The solutions range from simple to tech-assisted, depending on how different the
 
 This is one of the easier combinations to manage.
 
-**Option 1: Feed separately, same room.** Serve kitten food to the kitten and adult food to the adult, in separate bowls at opposite ends of the room. Supervise until both finish. The kitten eats quickly; the adult is usually less interested in kitten food than vice versa.
+**Option 1: Feed separately, same room.** [Serve kitten food to the kitten](/blog/kitten-food-vs-adult-cat-food-multi-cat-home) and adult food to the adult, in separate bowls at opposite ends of the room. Supervise until both finish. The kitten eats quickly; the adult is usually less interested in kitten food than vice versa.
 
 **Option 2: All cats eat kitten food, temporarily.** If the adult cat is at a healthy weight and you have a kitten for less than a year, some vets will recommend simply feeding everyone kitten food until the kitten reaches adulthood. The adult cat will eat slightly more calories than ideal, but the extra weight gain over this period is usually minimal and manageable with slightly reduced portions.
 

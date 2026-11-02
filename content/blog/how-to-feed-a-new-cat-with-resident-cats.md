@@ -86,7 +86,7 @@ In practice, that means:
 - **Fixed, measured meals** rather than one big bowl topped up all day, so you can see who is eating what.
 - **A plan for the cats you flagged in Stage 3.** The fast eater will test every other bowl in the house. The hesitant eater may quietly give up their food rather than argue for it. [Why Is My Cat Stealing the Other Cat's Food](/blog/cat-stealing-other-cats-food) goes through the common patterns.
 
-If the new cat arrives with a special diet, such as a prescription food or kitten food in a house of adults, separation is not optional. [Do You Need a Separate Room to Feed Cats Differently?](/blog/separate-room-feed-cats-differently) walks through room-based setups, and [How to Feed Cats at Different Life Stages in One Home](/blog/feeding-cats-different-life-stages) covers kittens and adults together.
+If the new cat arrives with a special diet, such as a prescription food or [kitten food in a house of adults](/blog/kitten-food-vs-adult-cat-food-multi-cat-home), separation is not optional. [Do You Need a Separate Room to Feed Cats Differently?](/blog/separate-room-feed-cats-differently) walks through room-based setups, and [How to Feed Cats at Different Life Stages in One Home](/blog/feeding-cats-different-life-stages) covers kittens and adults together.
 
 ---
 
