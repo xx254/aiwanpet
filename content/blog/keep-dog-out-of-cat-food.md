@@ -33,7 +33,7 @@ Pancreatitis is the one to take seriously. VCA Animal Hospitals explains that th
 
 ### For the cats
 
-The cat whose bowl gets emptied is losing calories, and if she is on a prescription diet, she is losing the treatment too. A kidney or urinary diet only works if the cat actually eats it. See [How to Feed Prescription Cat Food in a Multi-Cat Home](/blog/prescription-cat-food-multiple-cats) for why every lost meal counts.
+The cat whose bowl gets emptied is losing calories, and if she is on a prescription diet, she is losing the treatment too. A kidney or [urinary diet only works](/blog/urinary-cat-food-multiple-cats) if the cat actually eats it. See [How to Feed Prescription Cat Food in a Multi-Cat Home](/blog/prescription-cat-food-multiple-cats) for why every lost meal counts.
 
 There is a quieter cost as well. Cats like to eat somewhere calm. Zazie Todd, a psychologist and certified dog trainer who writes about animal behaviour, puts it simply: ["Cats like to have somewhere quiet and private to eat. And if you have a dog, it's very important that they are out of the dog's reach."](https://www.psychologytoday.com/us/blog/fellow-creatures/202603/can-your-cat-eat-their-meals-in-peace) A cat who has to eat with a dog breathing over her shoulder may eat fast, eat less, or skip meals.
 

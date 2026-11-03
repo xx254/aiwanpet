@@ -124,7 +124,7 @@ An occasional small amount is unlikely to cause harm in an otherwise healthy cat
 Ask your vet first. For some prescriptions, mixing is acceptable during a transition period. For strict elimination diets for allergies, any mixing defeats the purpose.
 
 **How long does a cat usually need to be on a prescription diet?**
-It depends on the condition. Kidney disease and diabetes require lifelong dietary management. Urinary diets are often prescribed long-term as well. Elimination diets are usually temporary (8–12 weeks) while allergens are identified.
+It depends on the condition. Kidney disease and diabetes require lifelong dietary management. [Urinary diets are often prescribed long-term](/blog/urinary-cat-food-multiple-cats) as well. Elimination diets are usually temporary (8–12 weeks) while allergens are identified.
 
 **Is there a microchip feeder that works with wet food?**
 Yes. The Aiwan Cat Food Shield works with both wet and dry food in standard bowls, as well as with most automatic feeders. The cover seals the food between meals, keeping it fresh and inaccessible to other cats.
