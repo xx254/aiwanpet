@@ -74,7 +74,7 @@ Even small amounts of the wrong food can interfere with treatment. A cat on a lo
 
 ## Sign 7: You Cannot Account for How Much Each Cat Is Eating
 
-If you free-feed (leave food out all day) and simply top up the bowls, you have no real visibility into how much each cat is eating. One cat could be consuming 80% of the food while the other gets the remainder.
+If you free-feed (leave food out all day) and simply top up the bowls, you have no real visibility into [how much each cat is eating](/blog/how-much-to-feed-each-cat-multi-cat-home). One cat could be consuming 80% of the food while the other gets the remainder.
 
 This is the most common setup in multi-cat households, and it is also the one with the least control over individual intake.
 

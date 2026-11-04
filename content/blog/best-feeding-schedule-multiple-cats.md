@@ -12,7 +12,7 @@ Getting the schedule right does not require complicated systems. But it does req
 
 ## The Foundation: Twice Daily, Measured Portions
 
-The standard recommendation from veterinarians for adult cats is two meals per day — morning and evening — with measured portions that match each cat's caloric needs.
+The standard recommendation from veterinarians for adult cats is two meals per day — morning and evening — with [measured portions that match each cat's caloric needs](/blog/how-much-to-feed-each-cat-multi-cat-home).
 
 This looks simple because it is. But in practice, "measured portions at set times" is the single most effective change most multi-cat households can make.
 
