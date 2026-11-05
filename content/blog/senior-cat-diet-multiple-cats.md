@@ -97,7 +97,7 @@ Most vets lean toward recommending wet food for senior cats, particularly those 
 
 **Kidney support:** Wet food's higher moisture content helps maintain hydration and reduces the workload on the kidneys. For cats with CKD, this is clinically significant.
 
-**Dental comfort:** Wet food requires no chewing. Cats with dental pain will often refuse dry food but continue to eat wet food readily.
+**Dental comfort:** Wet food requires no chewing. [Cats with dental pain](/blog/feeding-cat-with-dental-problems-multi-cat-home) will often refuse dry food but continue to eat wet food readily.
 
 **Appetite:** Wet food is often more palatable than dry, which matters for senior cats that begin to lose interest in food.
 

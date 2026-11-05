@@ -17,7 +17,7 @@ Both are food aggression. They need different responses, and the first step is w
 
 A cat who suddenly becomes aggressive around food is telling you something, and the something is often physical.
 
-**Pain on eating** — dental disease, a resorptive lesion, or oral inflammation — makes a cat defensive at the bowl and can make them lash out at whoever is nearby.
+**Pain on eating** — [dental disease](/blog/feeding-cat-with-dental-problems-multi-cat-home), a resorptive lesion, or oral inflammation — makes a cat defensive at the bowl and can make them lash out at whoever is nearby.
 
 **A condition causing ravenous hunger.** Hyperthyroidism and diabetes both do this. A cat who is genuinely, constantly starving behaves differently from a cat who is merely pushy. If your cat's appetite has increased noticeably while their weight has dropped, that is a vet visit, not a training problem. See [Feeding a Hyperthyroid Cat in a Multi-Cat Home](/blog/hyperthyroid-cat-multiple-cats).
 

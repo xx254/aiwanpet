@@ -84,7 +84,7 @@ Protecting the food is only half of it. The other half is making it worth eating
 
 **Fresh, not sitting out.** Wet food that has been down for hours is unappetising and, past a couple of hours at room temperature, not safe. A cover keeps dust and other cats out; it does not refrigerate. See [Can You Feed Wet Food to Multiple Cats?](/blog/feed-wet-food-multiple-cats).
 
-**Check their mouth.** Dental pain is one of the most common reasons a cat quietly reduces intake, and it is easy to miss.
+**Check their mouth.** [Dental pain](/blog/feeding-cat-with-dental-problems-multi-cat-home) is one of the most common reasons a cat quietly reduces intake, and it is easy to miss.
 
 **Reduce mealtime stress.** A cat who eats in a quiet place, out of sight of housemates, with an escape route, eats more. See [Cat Aggressive About Food](/blog/cat-aggressive-about-food-multi-cat-home).
 
