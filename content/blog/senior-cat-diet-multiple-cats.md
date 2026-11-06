@@ -101,7 +101,7 @@ Most vets lean toward recommending wet food for senior cats, particularly those 
 
 **Appetite:** Wet food is often more palatable than dry, which matters for senior cats that begin to lose interest in food.
 
-In a multi-cat household, transitioning your senior cat to wet food while others continue with dry food means managing wet and dry food simultaneously. Wet food requires more prompt removal (spoils faster), but the combination is very manageable with scheduled feeding.
+In a multi-cat household, transitioning your senior cat to wet food while others continue with dry food means [managing wet and dry food simultaneously](/blog/wet-and-dry-cat-food-multi-cat-home). Wet food requires more prompt removal (spoils faster), but the combination is very manageable with scheduled feeding.
 
 ---
 

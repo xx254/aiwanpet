@@ -91,7 +91,7 @@ If all of those conditions are met and your cats have maintained healthy weights
 
 ## A Hybrid Approach
 
-Some multi-cat households do well with a hybrid: dry food available for grazing between meals, plus a scheduled wet food serving once or twice daily.
+Some multi-cat households do well with a hybrid: [dry food available for grazing between meals](/blog/wet-and-dry-cat-food-multi-cat-home), plus a scheduled wet food serving once or twice daily.
 
 In this setup, the dry food is the same for all cats (ideally a maintenance diet both can eat), and the wet food is where any special dietary requirements are met. The wet food window is supervised or protected with a microchip feeder.
 

@@ -65,7 +65,7 @@ A worked example (the food figures are made up to show the arithmetic, so use th
 - Your dry food says 3,800 kcal/kg, which is 3.8 kcal per gram.
 - 238 ÷ 3.8 ≈ **63 g of kibble a day**, split across however many meals you feed.
 
-If you mix wet and dry, budget in calories. If a wet pouch in this example provides 70 kcal, one pouch leaves 168 kcal for kibble, which is about 44 g of the same food.
+If you [mix wet and dry](/blog/wet-and-dry-cat-food-multi-cat-home), budget in calories. If a wet pouch in this example provides 70 kcal, one pouch leaves 168 kcal for kibble, which is about 44 g of the same food.
 
 ### Why the chart on the bag is only a rough guide
 
