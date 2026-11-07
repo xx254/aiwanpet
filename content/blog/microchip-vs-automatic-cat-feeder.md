@@ -17,7 +17,7 @@ An automatic cat feeder dispenses a set portion of dry food at a programmed time
 What it does:
 - Feeds your cat on a schedule when you are not home
 - Portions meals accurately
-- Prevents cats from going hungry if you work long hours or travel briefly
+- Prevents cats from going hungry if you [work long hours](/blog/feeding-multiple-cats-when-you-work-long-hours) or travel briefly
 
 What it does not do:
 - Know which cat is eating from it

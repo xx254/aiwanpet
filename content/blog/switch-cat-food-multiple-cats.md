@@ -118,7 +118,7 @@ In a multi-cat home, the hard part is knowing that a cat hasn't eaten. If the bo
 
 ## When This Won't Work
 
-Separate stations and careful mixing take time at every meal, usually two or three times a day for one to two weeks. If you work long shifts or someone else feeds the cats some days, the schedule will slip, and that's fine as long as you notice when it does. Some cats will not accept a particular food however slowly you go. If a cat on a vet-recommended diet keeps refusing it, ask your vet about alternatives. Many therapeutic diets come in more than one brand or texture. And if two cats fight at every meal, no transition plan will fix that. Deal with the conflict first.
+Separate stations and careful mixing take time at every meal, usually two or three times a day for one to two weeks. If you [work long shifts](/blog/feeding-multiple-cats-when-you-work-long-hours) or someone else feeds the cats some days, the schedule will slip, and that's fine as long as you notice when it does. Some cats will not accept a particular food however slowly you go. If a cat on a vet-recommended diet keeps refusing it, ask your vet about alternatives. Many therapeutic diets come in more than one brand or texture. And if two cats fight at every meal, no transition plan will fix that. Deal with the conflict first.
 
 ---
 

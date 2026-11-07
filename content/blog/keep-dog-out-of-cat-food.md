@@ -77,7 +77,7 @@ If cat food is down all day, the dog has all day to find it. Switching the cats 
 
 **Works well when:** someone is home at mealtimes, and the cats eat their meal in one sitting.
 
-**Fails when:** a cat is a slow grazer, or needs several small meals a day for medical reasons, or you work long shifts.
+**Fails when:** a cat is a slow grazer, or needs several small meals a day for medical reasons, or you [work long shifts](/blog/feeding-multiple-cats-when-you-work-long-hours).
 
 ### 5. Training
 
