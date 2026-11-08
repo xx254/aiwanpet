@@ -72,7 +72,7 @@ Microchip feeders are commonly used for:
 
 **Dog-proof cat feeding.** A dog cannot open a microchip feeder registered only to a cat. This is a common use case in mixed-species households.
 
-**Preventing food anxiety in shy cats.** A timid cat that consistently gets pushed away from its bowl by dominant housemates can eat in peace when its food is physically secured behind a microchip lock.
+**Preventing food anxiety in shy cats.** A timid cat that consistently [gets pushed away from its bowl](/blog/cat-chased-away-from-food-bowl-multi-cat-home) by dominant housemates can eat in peace when its food is physically secured behind a microchip lock.
 
 ---
 

@@ -54,7 +54,7 @@ Vomiting, loose stools, or changes in litter box habits after meals can indicate
 
 ## Sign 5: One Cat Seems Anxious or Reluctant to Approach Its Bowl
 
-Cats that are consistently pushed away from their own food will start to show stress around mealtimes. A cat that used to eat happily and now hesitates, eats while watching over its shoulder, or walks away from its bowl with food still in it may have been displaced or intimidated by the other cat.
+Cats that are consistently [pushed away from their own food](/blog/cat-chased-away-from-food-bowl-multi-cat-home) will start to show stress around mealtimes. A cat that used to eat happily and now hesitates, eats while watching over its shoulder, or walks away from its bowl with food still in it may have been displaced or intimidated by the other cat.
 
 This is sometimes mistaken for pickiness or illness, but it is a social and behavioral response to food insecurity.
 

@@ -104,7 +104,7 @@ This applies to the resident cats as much as to the newcomer. A resident cat who
 
 The door-and-bowl method depends on having a door. In a studio flat or an open-plan home with no room that closes, a full sanctuary setup may not be possible, and you may need to improvise with a large crate, a screen or a borrowed room for the first week.
 
-Some introductions also take far longer than owners expect, and the step-by-step guides deliberately give no fixed schedule: each stage lasts as long as the cats need. Some pairings never settle into easy shared meals, even with a careful start. If one cat is still hiding, still not eating, or still being chased away from food after several weeks, talk to your vet. They can check for a medical cause and, if needed, refer you to a behaviour professional.
+Some introductions also take far longer than owners expect, and the step-by-step guides deliberately give no fixed schedule: each stage lasts as long as the cats need. Some pairings never settle into easy shared meals, even with a careful start. If one cat is still hiding, still not eating, or still [being chased away from food](/blog/cat-chased-away-from-food-bowl-multi-cat-home) after several weeks, talk to your vet. They can check for a medical cause and, if needed, refer you to a behaviour professional.
 
 No feeding setup can make two cats like each other. What it can do is take food off the list of things they fight about.
 
