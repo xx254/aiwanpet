@@ -5,6 +5,7 @@ import { getAllPosts } from "@/lib/posts";
 import ScrollVideo from "./ScrollVideo";
 import Reveal from "./Reveal";
 import Subscribe from "./Subscribe";
+import Reserve from "./Reserve";
 
 import openShot from "../../public/product/panda-open.jpg";
 import lockedShot from "../../public/product/panda-locked.jpg";
@@ -302,6 +303,28 @@ export default function Home() {
                 </Link>
               </Reveal>
             ))}
+          </div>
+        </section>
+      )}
+
+      {/* $5 pre-sale. Only shown once Stripe is connected (STRIPE_SECRET_KEY set). */}
+      {process.env.STRIPE_SECRET_KEY && (
+        <section className="px-3 sm:px-5 mb-6" id="reserve">
+          <div className="bg-brand-dark rounded-[36px]">
+            <Reveal className="max-w-6xl mx-auto px-5 py-16 sm:py-20 grid md:grid-cols-2 gap-8 items-center">
+              <div className="text-white">
+                <h2 className="text-3xl sm:text-[2.6rem] font-semibold tracking-tight mb-3">
+                  Reserve yours for $5.
+                </h2>
+                <p className="text-white/85 text-[15px] leading-relaxed max-w-md">
+                  Put down $5 now and get $50 off when the Aiwan shield launches.
+                  Fully refundable any time before launch.
+                </p>
+              </div>
+              <div className="md:justify-self-end w-full max-w-md">
+                <Reserve />
+              </div>
+            </Reveal>
           </div>
         </section>
       )}
