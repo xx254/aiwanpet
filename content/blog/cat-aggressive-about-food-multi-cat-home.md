@@ -79,7 +79,7 @@ Small, and it works. The urgency in a multi-cat home is usually concentrated in 
 
 ### Make Food Feel Abundant to the Guarder
 
-Counter-intuitive but effective for genuine resource guarding: more feeding stations than cats, spread around the home, and food available more often. You are trying to disprove the cat's belief that food is scarce. Rationing a guarder reinforces exactly what they already think.
+Counter-intuitive but effective for genuine resource guarding: [more feeding stations than cats](/blog/how-many-feeding-stations-for-multiple-cats), spread around the home, and food available more often. You are trying to disprove the cat's belief that food is scarce. Rationing a guarder reinforces exactly what they already think.
 
 This has to be squared with weight management for the other cats, which is where protected bowls do real work — they let one cat's food be abundant without it also being everyone's.
 

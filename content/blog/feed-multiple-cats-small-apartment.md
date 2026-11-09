@@ -19,7 +19,7 @@ The AAFP and ISFM [feline feeding consensus statement](https://pmc.ncbi.nlm.nih.
 
 Think of it like a tiny café with one long shared table. Nobody is technically stopping anyone from eating, but the cat who feels watched will gulp, skip, or leave, and the confident one will drift over and finish what is left.
 
-The same statement recommends that "feeding plans should include multiple feeding stations that are visually separated" and that stations "should not be close to litter boxes." In a small flat, the second point matters as much as the first, because the litter tray is often parked right next to the kitchen.
+The same statement recommends that "feeding plans should include [multiple feeding stations that are visually separated](/blog/how-many-feeding-stations-for-multiple-cats)" and that stations "should not be close to litter boxes." In a small flat, the second point matters as much as the first, because the litter tray is often parked right next to the kitchen.
 
 ---
 

@@ -110,7 +110,7 @@ Systems and equipment raise your capacity. They do not make it unlimited, and th
 ## Frequently Asked Questions
 
 **How many feeding stations do I need for ten cats?**
-More than you think, and spread out. The usual guidance for multi-cat homes is one station per cat plus one, and while that is rarely achievable at ten, the direction is right: more stations, further apart, with broken sight lines. Concentrating a large group at one feeding point produces conflict that has nothing to do with the food.
+More than you think, and spread out. The usual guidance for multi-cat homes is one station per cat plus one, and while that is rarely achievable at ten, the direction is right: [more stations, further apart](/blog/how-many-feeding-stations-for-multiple-cats), with broken sight lines. Concentrating a large group at one feeding point produces conflict that has nothing to do with the food.
 
 **Is free feeding acceptable with a large group?**
 For a group of healthy adults on the same maintenance diet, it is often the most practical approach and it reduces mealtime tension. The problem is that it removes your daily visual check, so pair it with scheduled wet food once a day where you actually watch.
