@@ -24,7 +24,7 @@ If one cat is gaining weight despite eating "its portion," it is almost certainl
 
 ## Sign 2: One Cat Eats Much Faster Than the Other
 
-A cat that inhales its food in two minutes flat, while the other cat grazes slowly, has a structural advantage in food stealing. By the time the slower cat has finished half its meal, the fast eater is already done and looking for more.
+A cat that inhales its food in two minutes flat, while [the other cat grazes slowly](/blog/cat-eats-slowly-other-cats-finish-first), has a structural advantage in food stealing. By the time the slower cat has finished half its meal, the fast eater is already done and looking for more.
 
 Watch how long each cat spends eating. If there's a significant speed difference, the fast eater almost certainly investigates the other bowl afterward.
 

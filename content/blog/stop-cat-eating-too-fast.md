@@ -20,7 +20,7 @@ Domestic cats retain this wiring. For some cats, it is dormant. For others, it i
 
 ### Resource competition
 
-In multi-cat households, competition at the bowl reinforces fast eating. A cat that has learned that eating slowly means losing food to a housemate will eat faster over time. This is a conditioned response to real or perceived scarcity.
+In multi-cat households, competition at the bowl reinforces fast eating. A cat that has learned that [eating slowly means losing food](/blog/cat-eats-slowly-other-cats-finish-first) to a housemate will eat faster over time. This is a conditioned response to real or perceived scarcity.
 
 ### Food restriction history
 

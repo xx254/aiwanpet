@@ -53,7 +53,7 @@ You do not need a protected bowl for every cat. You need one wherever a specific
 
 **The cat who must not eat something.** Food-trial cats and cats with genuine allergies need protection from everyone else's bowls, which is a harder layout than protecting their own.
 
-**The frail or slow eater.** In a large group, the cat who eats slowly is the cat who does not eat. Protected access lets them return to their own food four hours later.
+**The frail or slow eater.** In a large group, [the cat who eats slowly](/blog/cat-eats-slowly-other-cats-finish-first) is the cat who does not eat. Protected access lets them return to their own food four hours later.
 
 **Medication in food.** In a group setting, a medicated bowl is a genuine hazard — the dose reaching the wrong cat is far more likely than in a two-cat home. See [How to Medicate a Cat in a Multi-Cat Home](/blog/medicating-cat-multi-cat-home).
 
