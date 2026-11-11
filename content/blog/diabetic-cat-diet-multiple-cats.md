@@ -18,7 +18,7 @@ Feline diabetes is strongly linked to high-carbohydrate diets. The standard diet
 
 When this dietary change is made consistently, many cats see a dramatic improvement in blood glucose regulation. Some achieve diabetic remission and no longer require insulin. But this only works if the cat actually eats its prescribed food — and only that food.
 
-A diabetic cat that occasionally eats high-carbohydrate food from another cat's bowl can experience glucose spikes that destabilise blood sugar control. If the cat is on insulin, this creates dangerous unpredictability.
+A diabetic cat that occasionally [eats high-carbohydrate food from another cat's bowl](/blog/cat-ate-another-cats-food-is-it-safe) can experience glucose spikes that destabilise blood sugar control. If the cat is on insulin, this creates dangerous unpredictability.
 
 ---
 

@@ -79,7 +79,7 @@ This is an underused question. It is worth asking at every medication review.
 
 ## Special Cases Worth Naming
 
-**Insulin.** Always injected, never in food, so the cross-feeding risk is zero — but the diet around it matters enormously, and a diabetic cat eating another cat's food makes glucose curves meaningless. See [Managing a Diabetic Cat's Diet in a Multi-Cat Home](/blog/diabetic-cat-diet-multiple-cats).
+**Insulin.** Always injected, never in food, so the cross-feeding risk is zero — but the diet around it matters enormously, and [a diabetic cat eating another cat's food](/blog/cat-ate-another-cats-food-is-it-safe) makes glucose curves meaningless. See [Managing a Diabetic Cat's Diet in a Multi-Cat Home](/blog/diabetic-cat-diet-multiple-cats).
 
 **Thyroid medication.** Usually lifelong, usually twice daily, and very often given in food. The highest-volume case for a protected bowl. See [Feeding a Hyperthyroid Cat in a Multi-Cat Home](/blog/hyperthyroid-cat-multiple-cats).
 

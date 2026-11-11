@@ -14,7 +14,7 @@ Here is every realistic method, assessed honestly.
 
 ## Why Portion Control Matters
 
-**Weight management.** The most common reason. An overweight cat that can eat another cat's food will not lose weight on a reduced-calorie diet if that diet is supplemented by another cat's bowl.
+**Weight management.** The most common reason. An overweight cat that can [eat another cat's food](/blog/cat-ate-another-cats-food-is-it-safe) will not lose weight on a reduced-calorie diet if that diet is supplemented by another cat's bowl.
 
 **Medical diets.** Kidney disease, diabetes, food allergies, urinary conditions — these all involve dietary management where the prescribed amount and food type must be accurate. Even a small but regular deviation can undermine treatment.
 
