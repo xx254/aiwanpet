@@ -95,7 +95,7 @@ A selective feeder lets the sore-mouthed cat eat at his own pace, come back late
 
 ## When This Won't Work
 
-No feeding setup fixes a painful mouth. If a cat is still dropping food, drooling or eating less, the answer is a vet appointment, not a better bowl. Any covered or enclosed feeder also needs the cat to be willing to use it, and a cat who is already sore and stressed may need slow introduction; our post on [cats afraid of the feeder lid](/blog/cat-afraid-of-feeder-lid) covers that. A covered bowl changes who can reach the food, not how long it keeps, so ask your vet how long your cat's wet food can safely sit out. And if your vet wants you to measure exactly how much the cat eats after surgery, nothing replaces weighing the bowl before and after.
+No feeding setup fixes a painful mouth. If a cat is still dropping food, drooling or eating less, the answer is a vet appointment, not a better bowl. Any covered or enclosed feeder also needs the cat to be willing to use it, and a cat who is already sore and stressed may need slow introduction; our post on [cats afraid of the feeder lid](/blog/cat-afraid-of-feeder-lid) covers that. A covered bowl changes who can reach the food, not how long it keeps, so ask your vet how long your cat's [wet food can safely sit out](/blog/how-long-can-wet-cat-food-sit-out-multi-cat-home). And if your vet wants you to measure exactly how much the cat eats after surgery, nothing replaces weighing the bowl before and after.
 
 ---
 

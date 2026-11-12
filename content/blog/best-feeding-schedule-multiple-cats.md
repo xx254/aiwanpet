@@ -58,7 +58,7 @@ Once you place the food down, leave it for 20 to 30 minutes and then remove what
 
 This is important for two reasons:
 
-1. **Food safety** — wet food left out longer than two hours is a spoilage risk
+1. **Food safety** — [wet food left out longer than two hours](/blog/how-long-can-wet-cat-food-sit-out-multi-cat-home) is a spoilage risk
 2. **Scheduling discipline** — cats that know food disappears eat when it is available, rather than grazing and picking
 
 Do not be alarmed if a cat does not finish every meal, especially in the early days of a new schedule. Most cats adjust within a week. If a cat consistently refuses meals, speak to your vet.

@@ -94,7 +94,7 @@ The plan: Mabel eats in the bedroom at 7am and 6pm with the door shut, and her d
 Some of this will not fit your home.
 
 - **If you aren't home at mealtimes,** door-closing routines can't be done. Nothing can guard wet food against the 30-minute limit if you are out.
-- **A guarded bowl does not make food last longer.** Wet food left under a lid can still spoil. Ask your vet how long your cat's food can sit.
+- **A guarded bowl does not make food last longer.** Wet food left under a lid can still spoil. Ask your vet [how long your cat's food can sit](/blog/how-long-can-wet-cat-food-sit-out-multi-cat-home).
 - **Not every cat will use a covered feeder.** Some need slow introduction; [cats afraid of the feeder lid](/blog/cat-afraid-of-feeder-lid) shows how.
 - **Medical diets are the vet's call.** If a cat has kidney, urinary, thyroid or diabetic needs, the right mix of wet and dry is a question for your vet, not a blog.
 - **If a cat changes eating patterns suddenly,** that needs a vet visit before any new gadget.
