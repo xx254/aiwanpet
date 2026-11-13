@@ -58,7 +58,7 @@ Feed one cat in the kitchen, one in the bedroom, one in the hallway with a door 
 
 ### Distance and visual breaks
 
-If you cannot give every cat a room, put the bowls as far apart as the home allows and block the line of sight. A bookcase, a sofa back, or a corner can work. Aim for what the RSPCA describes: food out of sight of other cats' bowls, and cats not facing each other while they eat.
+If you cannot give every cat a room, [put the bowls as far apart](/blog/best-cat-food-bowls-multi-cat-home) as the home allows and block the line of sight. A bookcase, a sofa back, or a corner can work. Aim for what the RSPCA describes: food out of sight of other cats' bowls, and cats not facing each other while they eat.
 
 ### Different times
 

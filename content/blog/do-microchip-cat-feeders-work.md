@@ -87,7 +87,7 @@ One important distinction when evaluating microchip feeders is whether you are l
 
 **Modular shields** sit on top of what you already have. This matters for several reasons:
 - If you have an automatic feeder you rely on for portion scheduling, you do not need to replace it — the shield adds microchip protection to your existing unit
-- If you prefer a specific bowl shape or size for your cat (wide and shallow, which is often recommended for cats with whisker sensitivity), you can keep it
+- If you prefer [a specific bowl shape or size](/blog/best-cat-food-bowls-multi-cat-home) for your cat (wide and shallow, which is often recommended for cats with whisker sensitivity), you can keep it
 - When you have multiple cats on different feeding setups, mixing and matching is simpler
 
 For households that already have a good feeding infrastructure and just need microchip access control added to it, a modular approach is more practical and usually more cost-effective.

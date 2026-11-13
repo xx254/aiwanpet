@@ -124,7 +124,7 @@ At least two, in separate places, and ideally out of sight of each other. VCA's 
 
 ### Is a row of bowls in the same room enough?
 
-Usually not. Bowls placed close together can act as one shared bowl, and a confident cat can hold the whole row without any fighting. Put the stations in different rooms, or at least behind something that blocks the view.
+Usually not. [Bowls placed close together](/blog/best-cat-food-bowls-multi-cat-home) can act as one shared bowl, and a confident cat can hold the whole row without any fighting. Put the stations in different rooms, or at least behind something that blocks the view.
 
 ### Can two cats share one feeding station?
 
