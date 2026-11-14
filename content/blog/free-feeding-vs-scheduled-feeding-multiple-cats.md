@@ -123,7 +123,7 @@ Leave the food down for 30 minutes. If the cat hasn't eaten, pick it up and try 
 
 **Can I use an automatic feeder for scheduled feeding with multiple cats?**
 
-Yes, but standard automatic feeders do not prevent cross-feeding. A microchip feeder or separate rooms are still needed if cats have different diets or if one cat is stealing the other's food.
+Yes, but [standard automatic feeders do not prevent cross-feeding](/blog/best-cat-feeder-for-multiple-cats). A microchip feeder or separate rooms are still needed if cats have different diets or if one cat is stealing the other's food.
 
 ---
 

@@ -126,6 +126,6 @@ Most microchip feeders allow you to register multiple chips to a single feeder �
 
 ---
 
-If you have been using an automatic feeder and wondering why your cats are still eating each other's food — that is why. The automatic feeder was solving the wrong problem. Microchip technology is what addresses identity-based access.
+If you have been using an automatic feeder and wondering why your cats are still eating each other's food — that is why. [The automatic feeder was solving the wrong problem](/blog/best-cat-feeder-for-multiple-cats). Microchip technology is what addresses identity-based access.
 
 For households needing both scheduling and selective access, the [Aiwan Cat Food Shield](https://aiwanpet.com) adds microchip protection to your existing feeder without replacing it.

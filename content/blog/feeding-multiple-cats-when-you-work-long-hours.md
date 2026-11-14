@@ -107,7 +107,7 @@ Separate them in space and time. Feed before and after work with the cats in dif
 
 ### Are automatic feeders good for multiple cats?
 
-They deliver meals on schedule, but the AAFP-panel paper says they do not typically provide for foraging and predation, and a plain timed feeder cannot tell your cats apart. Microchip or RFID versions can limit access, though that is a different kind of device.
+They deliver meals on schedule, but the AAFP-panel paper says they do not typically provide for foraging and predation, and a [plain timed feeder](/blog/best-cat-feeder-for-multiple-cats) cannot tell your cats apart. Microchip or RFID versions can limit access, though that is a different kind of device.
 
 ### Should I leave dry food out all day while I'm out?
 
