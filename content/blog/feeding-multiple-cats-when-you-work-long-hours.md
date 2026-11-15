@@ -57,7 +57,7 @@ The AAFP-panel paper recommends that feeding plans include multiple feeding stat
 
 ### Decide what is out and what is not
 
-Cornell says leaving food out all the time may be acceptable for some cats but can lead to overeating and weight gain in others, and that food left out should be replaced with fresh food every day. In a mixed home, that "some cats and others" is the whole problem. If the cat who needs to lose weight has access to the same dry food as the thin senior, free feeding is a trap. [Free feeding vs scheduled feeding](/blog/free-feeding-vs-scheduled-feeding-multiple-cats) lays out the trade-off.
+Cornell says leaving food out all the time may be acceptable for some cats but can lead to overeating and weight gain in others, and that food left out should be [replaced with fresh food every day](/blog/how-long-can-dry-cat-food-sit-out-multi-cat-home). In a mixed home, that "some cats and others" is the whole problem. If the cat who needs to lose weight has access to the same dry food as the thin senior, free feeding is a trap. [Free feeding vs scheduled feeding](/blog/free-feeding-vs-scheduled-feeding-multiple-cats) lays out the trade-off.
 
 ### Keep wet food for when you are there
 

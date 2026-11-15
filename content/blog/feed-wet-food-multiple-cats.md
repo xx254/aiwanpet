@@ -14,7 +14,7 @@ Here is how to manage wet food feeding in a multi-cat home without constant supe
 
 ## Why Wet Food Is Harder to Manage Than Dry
 
-Dry food can sit in a bowl for hours. Wet food cannot.
+[Dry food can sit in a bowl](/blog/how-long-can-dry-cat-food-sit-out-multi-cat-home) for hours. Wet food cannot.
 
 After about two hours at room temperature, wet food begins to spoil and lose palatability. Most cats will refuse it once it has dried out or started to smell off. This means wet food requires a fundamentally different feeding approach than kibble — and in a multi-cat household, that challenge is multiplied.
 

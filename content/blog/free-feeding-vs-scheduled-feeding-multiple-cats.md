@@ -12,7 +12,7 @@ The choice between free feeding and scheduled feeding affects more than just whe
 
 ## What Is Free Feeding?
 
-Free feeding means keeping a bowl of dry food available at all times. Cats eat whenever they want, as much as they want.
+Free feeding means [keeping a bowl of dry food](/blog/how-long-can-dry-cat-food-sit-out-multi-cat-home) available at all times. Cats eat whenever they want, as much as they want.
 
 It is popular because it requires almost no effort — fill the bowl once or twice a day, and you're done. Many cats do self-regulate their intake and maintain a healthy weight on free feeding.
 
