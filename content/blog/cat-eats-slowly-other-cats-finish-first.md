@@ -21,7 +21,7 @@ Think of it like a shared plate at a family dinner. The person who eats fastest 
 
 ### Some slow cats are slow because they are anxious
 
-Not every slow eater is simply a leisurely one. A cat who eats a few bites, looks around, eats a few more, and leaves a quarter of her meal may be keeping watch on the other cats. The Cornell Feline Health Center notes in its [feeding guide](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feeding-your-cat) that "the presence of other animals, dirty food containers, or nearby litter boxes can deter a cat from eating." If that sounds like your cat, our post on [a cat who gets chased away from the food bowl](/blog/cat-chased-away-from-food-bowl-multi-cat-home) covers the quieter signs of mealtime pressure.
+Not every slow eater is simply a leisurely one. A cat who eats a few bites, looks around, eats a few more, and leaves a quarter of her meal may be keeping watch on the other cats. The Cornell Feline Health Center notes in its [feeding guide](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feeding-your-cat) that "the presence of other animals, dirty food containers, or nearby litter boxes can deter a cat from eating." If that sounds like your cat, our post on [a cat who gets chased away from the food bowl](/blog/cat-chased-away-from-food-bowl-multi-cat-home) covers the [quieter signs of mealtime pressure](/blog/cat-mealtime-stress-signs-multi-cat-home).
 
 ---
 

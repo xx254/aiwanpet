@@ -52,7 +52,7 @@ That last point catches a lot of multi-cat households. You moved the bowls to st
 
 One cause mostly happens in shared homes, and it's easy to miss because it rarely looks like a fight.
 
-The AAFP and ISFM consensus statement on [feline feeding programs](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343346) says cats "prefer to eat often and alone," and that "competition for food can cause conflict and pre-feeding aggression." It adds that "cats may not show overt signs of tension or stress."
+The AAFP and ISFM consensus statement on [feline feeding programs](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343346) says cats "prefer to eat often and alone," and that "competition for food can cause conflict and pre-feeding aggression." It adds that "cats may not show [overt signs of tension or stress](/blog/cat-mealtime-stress-signs-multi-cat-home)."
 
 In practice, a confident cat finishes its own bowl, then walks over and stands near the quiet cat's bowl. Nobody hisses. The quiet cat steps back and leaves. A minute later both bowls are empty, and from the doorway dinner looks like it went well.
 

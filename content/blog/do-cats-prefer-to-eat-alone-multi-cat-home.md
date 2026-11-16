@@ -35,7 +35,7 @@ The key word is *separated*. Two bowls inches apart count as one feeding spot in
 
 ## What Mealtime Stress Looks Like
 
-Not every uncomfortable cat will hiss or swat. The 2018 paper warns that cats may not show obvious signs of tension. In practice the signs are often quiet:
+Not every uncomfortable cat will hiss or swat. The 2018 paper warns that cats may not show [obvious signs of tension](/blog/cat-mealtime-stress-signs-multi-cat-home). In practice the signs are often quiet:
 
 - A cat who eats a few mouthfuls, then leaves, and comes back later.
 - A cat who waits at a distance until the others are done.
