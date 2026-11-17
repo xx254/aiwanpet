@@ -77,7 +77,7 @@ At 7am, both cats eat in separate rooms with the doors shut, and the owner lifts
 
 You cannot watch every meal, so lean on what you can observe.
 
-- **Weigh portions rather than scooping.** The AAFP-panel paper says owners should make sure their cat is eating an appropriate amount. A kitchen scale takes ten seconds. See [how much to feed each cat](/blog/how-much-to-feed-each-cat-multi-cat-home).
+- **[Weigh portions rather than scooping](/blog/weigh-cat-food-scale-vs-scoop-multi-cat-home).** The AAFP-panel paper says owners should make sure their cat is eating an appropriate amount. A kitchen scale takes ten seconds. See [how much to feed each cat](/blog/how-much-to-feed-each-cat-multi-cat-home).
 - **Check the body, not the bowl.** An empty bowl in a shared home tells you very little. A hands-on [body condition check](/blog/cat-body-condition-score-multi-cat-home) every few weeks tells you more.
 - **Watch for sudden changes.** If a cat stops eating or is suddenly ravenous, see your vet before changing the setup.
 

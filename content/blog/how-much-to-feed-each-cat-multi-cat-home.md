@@ -79,7 +79,7 @@ This is the step most households skip, and it matters most for cats because thei
 
 A study by German and colleagues in the *Journal of Animal Physiology and Animal Nutrition* looked at people portioning dry kibble with measuring cups. Accuracy ranged [from an 18% under-estimate to an 80% over-estimate](https://academy.royalcanin.com/en/veterinary/imprecision-when-using-measuring-cups-to-weigh-out-extruded-dry-kibbled-food), and errors got worse as portions got smaller. The authors warned that "over time, such errors could contribute to insidious weight gain."
 
-A digital kitchen scale fixes most of this. Two habits help:
+[A digital kitchen scale](/blog/weigh-cat-food-scale-vs-scoop-multi-cat-home) fixes most of this. Two habits help:
 
 - **Weigh the whole day once.** Each morning, weigh each cat's daily ration into its own labelled container, then split it into meals.
 - **Write the numbers down.** "Tortie 55 g, Tabby 50 g, Grey 63 g" on the fridge saves guessing, especially for a sitter. Our [cat sitter feeding instructions](/blog/cat-sitter-feeding-instructions-multiple-cats) post covers what else to write down.
