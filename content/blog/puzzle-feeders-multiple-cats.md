@@ -51,7 +51,7 @@ Witzel-Rollins and colleagues, in a 2022 [randomised study in the *Journal of Fe
 
 - Cats on the automatic feeders were more likely to reach ideal body condition. The paper reports 83.2% of cats in the six-meal group, 40% in the two-meal feeder group and none of the bowl group.
 - Owners rated the weight-loss plan as easier with an automatic feeder.
-- Bowl-fed cats showed more begging, following and pawing before meals than feeder-fed cats.
+- Bowl-fed cats showed [more begging](/blog/cats-begging-for-food-multi-cat-home), following and pawing before meals than feeder-fed cats.
 
 The caveats are large, and the authors state them. Only 23 cats were analysed, and 20 finished. The device combined separating and portioning, so the study can't say which feature mattered. It used one therapeutic dry diet. The feeder's manufacturer funded it. Treat it as an early signal, not a promise.
 
