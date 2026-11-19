@@ -68,7 +68,7 @@ Leaving wet food out longer than 20 to 30 minutes in warm conditions invites bac
 
 ## Storing Leftovers Properly
 
-Opened wet food from a tin or pouch can be refrigerated for up to three days if covered tightly. A silicone can cover keeps it fresh better than plastic wrap.
+[Opened wet food](/blog/store-cat-food-multi-cat-home) from a tin or pouch can be refrigerated for up to three days if covered tightly. A silicone can cover keeps it fresh better than plastic wrap.
 
 Cold wet food is often rejected by cats who prefer food at or near room temperature. If your cat refuses refrigerated food, warm it briefly in the microwave (a few seconds, stir well, test temperature before serving) or simply leave it out for five minutes before serving.
 

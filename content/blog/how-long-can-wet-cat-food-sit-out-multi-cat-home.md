@@ -35,7 +35,7 @@ If a cat has been eating from the bowl, throw away what remains once your window
 
 ### Opened tins
 
-Unused food that never reached a bowl is a different matter. PetMD says opened wet cat food "should be kept refrigerated and airtight," and VCA says it "must be kept in the refrigerator after opening and any unused portion should be tossed away after three days." PetMD gives the same three-day limit. The FDA adds that refrigerated pet food should be tightly covered and that your fridge should be set to 40°F or below.
+Unused food that never reached a bowl is a different matter. PetMD says [opened wet cat food](/blog/store-cat-food-multi-cat-home) "should be kept refrigerated and airtight," and VCA says it "must be kept in the refrigerator after opening and any unused portion should be tossed away after three days." PetMD gives the same three-day limit. The FDA adds that refrigerated pet food should be tightly covered and that your fridge should be set to 40°F or below.
 
 A habit that helps: write the opening date on a piece of tape on the lid. With four cats and two or three flavours on the go, nobody remembers which tin was opened on Sunday.
 

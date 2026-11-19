@@ -51,7 +51,7 @@ A fresh bowl does not help if the food in the bag is already tired.
 - **Put the bag inside a bin, not the kibble.** If you want a container, the FDA advises you "put the entire bag into the container rather than pour the kibble directly into it."
 - **Keep it cool and dry.** The FDA's page says "the temperature should be less than 80 F." PetMD says to avoid humid spots like the garage.
 - **Clean the bin between bags.** The FDA says to "wash and dry the storage container between finishing up one bag of kibble and filling it with another."
-- **Watch the dates.** Cornell advises not using food after its expiration date. PetMD says an opened bag can stay fresh for two to three months if properly stored. Check the manufacturer's guidance on your own bag too.
+- **Watch the dates.** Cornell advises not using food after its expiration date. PetMD says [an opened bag can stay fresh](/blog/store-cat-food-multi-cat-home) for two to three months if properly stored. Check the manufacturer's guidance on your own bag too.
 
 For a house of five cats, the bag may empty fast enough that none of this matters. For two small cats and a large bag, it matters a lot more. Buy a size you will finish well within the window.
 
