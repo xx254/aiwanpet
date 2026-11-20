@@ -134,7 +134,7 @@ Some cats avoid eating around others. She may be waiting to be sure the other ca
 
 ### Can I leave food out so the shy cat can eat later?
 
-You can, but it can also let the bolder cat overeat, and it does not give you a clear picture of what each cat is eating. Measured meals in separate places are easier to track.
+You can, but it can also let the bolder cat overeat, and it does not give you a clear picture of [what each cat is eating](/blog/how-to-tell-how-much-each-cat-is-eating-multi-cat-home). Measured meals in separate places are easier to track.
 
 ### Is it normal for a cat to eat very fast after being pushed off?
 

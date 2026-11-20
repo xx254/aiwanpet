@@ -18,7 +18,7 @@ Here is every realistic method, assessed honestly.
 
 **Medical diets.** Kidney disease, diabetes, food allergies, urinary conditions — these all involve dietary management where the prescribed amount and food type must be accurate. Even a small but regular deviation can undermine treatment.
 
-**Accurate appetite monitoring.** You cannot tell if a cat's appetite has changed if multiple cats are eating from shared or unprotected bowls. Reduced appetite is an early sign of illness, and spotting it requires knowing how much each individual cat is eating.
+**Accurate appetite monitoring.** You cannot tell if a cat's appetite has changed if multiple cats are eating from shared or unprotected bowls. Reduced appetite is an early sign of illness, and spotting it requires knowing [how much each individual cat is eating](/blog/how-to-tell-how-much-each-cat-is-eating-multi-cat-home).
 
 **Preventing overconsumption.** Even in healthy households, consistent overconsumption leads to weight gain over time. One cat regularly eating another's portions adds up.
 

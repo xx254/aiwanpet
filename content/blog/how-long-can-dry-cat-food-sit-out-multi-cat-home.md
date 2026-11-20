@@ -63,7 +63,7 @@ For a house of five cats, the bag may empty fast enough that none of this matter
 
 A bowl that is always full seems fair, but PetMD's [guide to feeding multiple cats](https://www.petmd.com/cat/nutrition/feeding-multiple-cats) says "free-feeding (leaving food out all day) often leads to overeating and food stealing." It is hard to know who ate what, and one quick cat can empty a bowl that was meant for two.
 
-That is why freshness and fairness end up being the same question. A bowl that you refill all day means you never see how much each cat eats, and never get a clean empty-and-wash moment. We compare the two approaches in [free feeding vs scheduled feeding for multiple cats](/blog/free-feeding-vs-scheduled-feeding-multiple-cats), and the measuring side is in [cat portion control in multi-cat households](/blog/cat-portion-control-multiple-cats).
+That is why freshness and fairness end up being the same question. A bowl that you refill all day means you never see [how much each cat eats](/blog/how-to-tell-how-much-each-cat-is-eating-multi-cat-home), and never get a clean empty-and-wash moment. We compare the two approaches in [free feeding vs scheduled feeding for multiple cats](/blog/free-feeding-vs-scheduled-feeding-multiple-cats), and the measuring side is in [cat portion control in multi-cat households](/blog/cat-portion-control-multiple-cats).
 
 ### The slow or shy cat gets the old food
 
