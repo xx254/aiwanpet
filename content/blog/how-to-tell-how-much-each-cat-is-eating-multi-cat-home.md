@@ -102,7 +102,7 @@ Tracking has limits, and it is worth being honest about them.
 - **It will not diagnose anything.** A log tells you that something changed. Only a vet can tell you why.
 - **It takes some effort.** Weighing and logging every meal is tiring for many households. A short burst to find a baseline, then occasional spot-checks, is more realistic.
 - **Separate feeding needs a place and a routine.** In a very small home, or one with a cat who bolts from her own spot to someone else's, you may still find cats sharing. Watch mealtimes at first.
-- **Grazers and hunters muddy the picture.** If a cat gets food elsewhere, such as from a neighbour, a treat drawer or a dog's bowl, the log will under-count what she eats.
+- **Grazers and hunters muddy the picture.** If a cat gets food elsewhere, such as from a neighbour, a treat drawer or [a dog's bowl](/blog/cat-eating-dog-food-multi-pet-home), the log will under-count what she eats.
 - **Cats are individuals.** Some eat little and often, and some eat everything at once. What matters is a change from that cat's own normal.
 
 ---
