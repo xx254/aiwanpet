@@ -119,7 +119,7 @@ No. A small digital kitchen scale with a tare function is enough. Sure Petcare s
 
 ### Does weighing food stop one cat from eating another cat's food?
 
-No. Weighing controls the portion, not who eats it. For that you need separate eating spots, supervision or a feeder that only opens for the right cat. See [how to feed multiple cats separately](/blog/how-to-feed-multiple-cats-separately).
+No. Weighing controls the portion, not who eats it. For that you need [separate eating spots](/blog/train-cats-to-eat-in-separate-spots-multi-cat-home), supervision or a feeder that only opens for the right cat. See [how to feed multiple cats separately](/blog/how-to-feed-multiple-cats-separately).
 
 ---
 

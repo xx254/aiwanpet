@@ -52,7 +52,7 @@ Shut the other cats out of the room, give a few treats, then swap. It is slow, b
 
 ### Give treats at each cat's own station
 
-If your cats already eat in separate spots, give the treat there, after the meal or in place of one part of it. The shy cat gets the same attention as the bold one, and nobody is lunging across a rug.
+If your cats already [eat in separate spots](/blog/train-cats-to-eat-in-separate-spots-multi-cat-home), give the treat there, after the meal or in place of one part of it. The shy cat gets the same attention as the bold one, and nobody is lunging across a rug.
 
 ### Scatter instead of toss
 

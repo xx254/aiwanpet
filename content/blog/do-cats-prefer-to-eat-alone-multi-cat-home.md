@@ -82,7 +82,7 @@ This is a made-up example, so adjust it to your own layout. The principle is dis
 
 ## Where Does the Fast Cat's Food Go?
 
-Separate spots help the shy cat, but they do not stop the bold cat strolling over to the shy cat's bowl once she steps away. That is the next problem most owners hit. [Why cats steal each other's food](/blog/cat-stealing-other-cats-food) explains why, and [what to do when a cat is aggressive about food](/blog/cat-aggressive-about-food-multi-cat-home) covers harder cases.
+[Separate spots](/blog/train-cats-to-eat-in-separate-spots-multi-cat-home) help the shy cat, but they do not stop the bold cat strolling over to the shy cat's bowl once she steps away. That is the next problem most owners hit. [Why cats steal each other's food](/blog/cat-stealing-other-cats-food) explains why, and [what to do when a cat is aggressive about food](/blog/cat-aggressive-about-food-multi-cat-home) covers harder cases.
 
 Some owners supervise each meal and lift the bowl after a set time. Others use a feeder that physically guards the food. The AAFP statement lists "in some instances, automatic feeders" among the tools in a feeding programme, alongside puzzle feeders and forage feeding. [Do microchip cat feeders actually work](/blog/do-microchip-cat-feeders-work) looks at how the RFID kind compares. Either way, a feeder is a second step after you have given the cats enough space, not a substitute for it.
 
