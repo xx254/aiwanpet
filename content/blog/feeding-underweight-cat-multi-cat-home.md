@@ -52,7 +52,7 @@ Meanwhile the overweight cat gets their measured portions on schedule, from thei
 
 This is precisely the case selective feeding was built for, and it is worth noting that the direction is unusual: most people buy one to stop a cat eating, and here you are buying one to let a cat eat.
 
-The [Aiwan Cat Food Shield](https://aiwanpet.com) covers the bowl your thin cat already eats from and opens only for their microchip or tag. Keeping the familiar bowl matters more than usual here — an underweight cat is often a fussy or anxious eater, and changing their bowl at the same time as everything else is a good way to reduce their intake further.
+The [Aiwan Cat Food Shield](https://aiwanpet.com) covers the bowl your thin cat already eats from and opens only for their microchip or tag. Keeping the familiar bowl matters more than usual here — an underweight cat is often a [fussy or anxious eater](/blog/picky-eater-cat-multi-cat-home), and changing their bowl at the same time as everything else is a good way to reduce their intake further.
 
 ### 2. Vertical Separation
 

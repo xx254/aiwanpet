@@ -96,7 +96,7 @@ Some diets, such as elimination diets for food allergy, only work if the cat eat
 
 ### Switching the whole household to a new brand
 
-This is the easiest version, because every bowl holds the same mix. You can prepare one batch for each meal and split it. Watch for the one cat who eats noticeably less once the new food goes in. Group switches hide a picky eater well, because the bowls still come back empty. Someone else may be finishing them.
+This is the easiest version, because every bowl holds the same mix. You can prepare one batch for each meal and split it. Watch for the one cat who eats noticeably less once the new food goes in. Group switches hide [a picky eater](/blog/picky-eater-cat-multi-cat-home) well, because the bowls still come back empty. Someone else may be finishing them.
 
 ### Kitten food and adult food
 

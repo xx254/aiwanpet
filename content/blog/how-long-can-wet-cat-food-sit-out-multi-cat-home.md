@@ -49,7 +49,7 @@ I did not find a source that says whether you should warm refrigerated wet food 
 
 ### The slow eater problem
 
-A quick eater finishes in three minutes. A slow or fussy eater is still working through the bowl at minute forty. If the rule is "discard at 30 to 60 minutes," the slow cat is the one who loses. Our post on [what to do when your cat eats slowly and the others finish first](/blog/cat-eats-slowly-other-cats-finish-first) covers ways to protect the slow cat's meal without leaving the food out for hours.
+A quick eater finishes in three minutes. A [slow or fussy eater](/blog/picky-eater-cat-multi-cat-home) is still working through the bowl at minute forty. If the rule is "discard at 30 to 60 minutes," the slow cat is the one who loses. Our post on [what to do when your cat eats slowly and the others finish first](/blog/cat-eats-slowly-other-cats-finish-first) covers ways to protect the slow cat's meal without leaving the food out for hours.
 
 ### The cat who skips a meal
 
