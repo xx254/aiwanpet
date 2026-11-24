@@ -31,7 +31,7 @@ Think of a wet-food bowl as a sandwich left on a picnic table rather than a seal
 
 ### Leftovers in the bowl
 
-If a cat has been eating from the bowl, throw away what remains once your window is up. Do not scrape it back into the tin or mix it with fresh food. The FDA also tells owners to wash bowls and scooping and measuring utensils "with soap and hot water after each use," so a bowl that has had old food dried onto it is worth washing rather than topping up.
+If a cat has been eating from the bowl, throw away what remains once your window is up. Do not scrape it back into the tin or mix it with fresh food. The FDA also tells owners to [wash bowls and scooping and measuring utensils](/blog/how-to-clean-cat-food-bowls-multi-cat-home) "with soap and hot water after each use," so a bowl that has had old food dried onto it is worth washing rather than topping up.
 
 ### Opened tins
 

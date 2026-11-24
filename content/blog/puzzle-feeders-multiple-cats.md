@@ -93,7 +93,7 @@ They are a poor fit for:
 
 ### 5. Keep them clean
 
-The dvm360 article notes that regular puzzle use means extra cleaning and upkeep for owners. With wet food in particular, wash puzzles after each use. If you have three puzzles, that's three more things in the sink every day, so be honest with yourself about whether you'll keep it up.
+The dvm360 article notes that [regular puzzle use means extra cleaning](/blog/how-to-clean-cat-food-bowls-multi-cat-home) and upkeep for owners. With wet food in particular, wash puzzles after each use. If you have three puzzles, that's three more things in the sink every day, so be honest with yourself about whether you'll keep it up.
 
 ---
 
