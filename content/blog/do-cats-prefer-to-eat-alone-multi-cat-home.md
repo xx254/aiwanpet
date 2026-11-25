@@ -27,7 +27,7 @@ Think of a restaurant that gives you your own table versus one that seats you on
 
 Two bowls on one mat is the shared bench. Both cats can see and smell each other and judge exactly how close the other one is. The paper above says "competition for food can cause conflict and pre-feeding aggression," and that forcing a cat to eat close to another cat it otherwise chooses to avoid creates anxiety, stress and health problems.
 
-The RSPCA makes the same point from the resource side. It says competition or conflict over shared resources can cause significant stress in multi-cat households. Its rule of thumb is one resource for each cat plus one extra, in separate locations. For two cats it suggests at least three food bowls, three water bowls and three litter trays, all in physically separated locations, with food kept out of sight of the other cats' bowls ([RSPCA Knowledgebase](https://kb.rspca.org.au/knowledge-base/what-do-i-need-to-know-about-multi-cat-households/)).
+The RSPCA makes the same point from the resource side. It says competition or conflict over shared resources can cause significant stress in multi-cat households. Its rule of thumb is one resource for each cat plus one extra, in separate locations. For two cats it suggests at least three food bowls, [three water bowls](/blog/how-many-water-bowls-for-multiple-cats) and three litter trays, all in physically separated locations, with food kept out of sight of the other cats' bowls ([RSPCA Knowledgebase](https://kb.rspca.org.au/knowledge-base/what-do-i-need-to-know-about-multi-cat-households/)).
 
 The key word is *separated*. Two bowls inches apart count as one feeding spot in a cat's mind, however many dishes are on the floor.
 

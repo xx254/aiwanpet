@@ -85,7 +85,7 @@ Walkerville Vet warns of an "extinction burst": when a behaviour that used to wo
 
 ### 4. Feed later, and in smaller meals
 
-The PHS/SPCA suggests: "If your cat is pestering you for food, you can try feeding her later in the evening." The AAFP says good feeding programs "in many cases include offering frequent small meals using appropriate puzzle feeders, forage feeding (putting food in different locations), multiple food and water stations, and in some instances, automatic feeders."
+The PHS/SPCA suggests: "If your cat is pestering you for food, you can try feeding her later in the evening." The AAFP says good feeding programs "in many cases include offering frequent small meals using appropriate puzzle feeders, forage feeding (putting food in different locations), [multiple food and water stations](/blog/how-many-water-bowls-for-multiple-cats), and in some instances, automatic feeders."
 
 In practice, keep the total daily amount the same and split it, moving part of dinner to a small meal just before bed. For a full multi-cat timetable, see our [best feeding schedule for multiple cats](/blog/best-feeding-schedule-multiple-cats).
 

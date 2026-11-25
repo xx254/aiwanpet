@@ -78,7 +78,7 @@ Everyone is out of sight of everyone else at mealtime. There is no spare room, j
 
 The consensus statement is explicit about litter boxes: feeding stations should not be close to them. In a small flat that can mean moving the tray, even a short way, so food and litter sit in different zones. If the only place for the tray is next to the kitchen, a screen between the two helps.
 
-Set water out in a few places away from the food, rather than only next to the bowls. The statement mentions "multiple food and water stations" as part of the approach, though it does not give a distance, so do not take any number from me as a rule. What matters is that no cat has to walk past a rival to reach a drink.
+[Set water out in a few places](/blog/how-many-water-bowls-for-multiple-cats) away from the food, rather than only next to the bowls. The statement mentions "multiple food and water stations" as part of the approach, though it does not give a distance, so do not take any number from me as a rule. What matters is that no cat has to walk past a rival to reach a drink.
 
 ---
 
