@@ -16,7 +16,7 @@ Knowing what to look for is the first step to solving it.
 
 This is the most reliable indicator that something is off with your feeding setup.
 
-If one cat is gaining weight despite eating "its portion," it is almost certainly eating more than its share. If another cat is maintaining weight or losing weight, it may not be getting enough.
+If [one cat is gaining weight](/blog/feeding-neutered-cat-multi-cat-home) despite eating "its portion," it is almost certainly eating more than its share. If another cat is maintaining weight or losing weight, it may not be getting enough.
 
 **What to do:** Weigh both cats once a week on a kitchen scale. Track the numbers. A consistent upward or downward trend, without any change in the food you're serving, points directly to a feeding problem.
 

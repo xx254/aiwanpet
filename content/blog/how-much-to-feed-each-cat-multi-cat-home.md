@@ -129,7 +129,7 @@ Weighing portions will not solve everything. If a cat is losing weight on its fu
 
 ### How much should I feed my cat a day?
 
-Vets often start with RER = 70 × (body weight in kg)^0.75, then multiply by 1.2 for a typical neutered adult, according to the Merck Veterinary Manual. For a neutered 4 kg cat that comes to about 238 kcal a day. Divide by your food's calories per gram, then adjust based on the cat's weight over the next few weeks.
+Vets often start with RER = 70 × (body weight in kg)^0.75, then multiply by 1.2 for [a typical neutered adult](/blog/feeding-neutered-cat-multi-cat-home), according to the Merck Veterinary Manual. For a neutered 4 kg cat that comes to about 238 kcal a day. Divide by your food's calories per gram, then adjust based on the cat's weight over the next few weeks.
 
 ### Should all my cats get the same amount of food?
 
